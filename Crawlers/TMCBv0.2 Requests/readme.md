@@ -11,7 +11,7 @@ better stability
 **there are some situetions where there might be some false negative **
 '''
 
-1 . run Cafe Backupper.exe/.py and input your blog number **NOTE! Please make sure you are logged in if your blog is private
+1 . run TMCBv0.2.exe/.py and input your blog number **NOTE! Please make sure you are logged in if your blog is private
 2 . your blog number can be located throw your user profile by clicking the "סה"כ 1234 תכנים"
 
 
