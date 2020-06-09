@@ -23,8 +23,6 @@ input(banner)
 print('Please wait a sec...')
 
 
-
-
 ### func
 
 def init():
@@ -54,7 +52,7 @@ def firstpage(blog_num):
     c = str(b).split('"')
     num = 3
     link = []
-    while num < 45:
+    while num < 51:
         link.append((c[num]))
         num += 4
     return link
@@ -72,35 +70,38 @@ def extract(blog_num):
         else:
             link = postlinks(blog_num, page)
         counter = 0
-        for url in link:
+        while True:
             try:
-                checkiflink(url)
-                r = requests.get(f"{url}")
+                # link = checkiflink(link)
+                r = requests.get(f"{link[0]}")
                 counter += 1
                 content = r.text
-                saver(content, link)
-                print(f'[+] {link[0]} has been backedup | total {total}')
+                saver(content, link, total)
                 total += 1
-            except:
-                print(f'[!] {url} is not valid | error code: 01 | can be false negative')
+            except Exception as e:
+                print(f"[+] Page {page + 1}")
+                break
         page += 1
 
 def postlinks(blog_num, page):
-    r = requests.get(f"http://cafe.themarker.com/blog/{blog_num}/?p={page}")
-    soup = BeautifulSoup(r.text, 'html.parser')
-    soup = soup.find_all(class_='post_title')
-    a = str(soup).split('<a')
-    b = str(a).split('href=')
-    c = str(b).split('"')
-    num = 3
-    link = []
-    while num < 45:
-        link.append((c[num]))
-        num += 4
-    clearposttitle(link)
+    try:
+        r = requests.get(f"http://cafe.themarker.com/blog/{blog_num}/?p={page}")
+        soup = BeautifulSoup(r.text, 'html.parser')
+        soup = soup.find_all(class_='post_title')
+        a = str(soup).split('<a')
+        b = str(a).split('href=')
+        c = str(b).split('"')
+        num = 3
+        link = []
+        while num < 51:
+            link.append((c[num]))
+            num += 4
+        # clearposttitle(link)
+    except:
+        pass
     return link
 
-def saver(content,link):
+def saver(content,link,total):
     savedir = mkdirchange()
     try:
         os.chdir(savedir)
@@ -110,13 +111,15 @@ def saver(content,link):
     with io.open(f"{link[0].split('/')[4]}.html", "w", encoding="utf-8") as f:
         f.write(str(content))
         f.close()
+    print(f'[+] {link[0]} has been backedup | total {total}')
     link.remove(link[0])
 
 def checkiflink(link):
- if link[0:31] == "http://cafe.themarker.com/post/":
-     pass
- else:
-     link.remove(link)
+     if link[0:31] == "http://cafe.themarker.com/post/":
+         pass
+     else:
+         print(f'[!] {link[0]} is not valid | error code: 01 | can be false negative |', e)
+         link.remove(link[0])
      return link
 
 def clearposttitle(link):
