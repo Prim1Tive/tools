@@ -6,7 +6,9 @@ Welcome to Themarker Caf`e backupper by Prim1Tive
 
 קוד המקור מפורסם תחת קובץ PY
  
-> פתחו את הקובץ TMCB0.3.exe
+הורידו את התוכנה מכאן https://github.com/Prim1Tive/tools/blob/master/Crawlers/TMCBv0.3%20Requests/TMCBv0.3.exe
+ 
+> פתחו את הקובץ TMCBv0.3.exe
 
 > התוכנה תבקש מכם את מספר הבלוג שלכם, את המספר ניתן לקבל דרך כניסה לבלוג עצמו והמספר יהיה רשום בסוף הקישור (הלינק) בדפדפן 
 
