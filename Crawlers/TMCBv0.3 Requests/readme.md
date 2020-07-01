@@ -1,4 +1,4 @@
-עברית
+#1 עברית
 
 צריך שPYTHON יהיה מותקן על המחשב
 הורדת PYTHON https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe
@@ -12,6 +12,12 @@ http://cafe.themarker.com/blog/16275/
 
 מספר הבלוג יהיה:
 16275
+
+
+
+
+#1 English
+
 
 The Marker Cafe Backupper v0.3
 
