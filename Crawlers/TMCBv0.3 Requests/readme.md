@@ -1,5 +1,9 @@
 ## עברית
 
+Welcome to Themarker Caf`e backupper by Prim1Tive
+
+`בעצם תוכנה שעוזרת לפשוטי העם לגבות את הבלוג שלהם בעקבות סגירת פינת הבלוגים של TheMarker`
+
 צריך שPYTHON יהיה מותקן על המחשב
 הורדת PYTHON https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe
 
@@ -18,6 +22,8 @@ http://cafe.themarker.com/blog/16275/
 
 ## English
 
+
+Welcome to Themarker Caf`e backupper by Prim1Tive
 
 The Marker Cafe Backupper v0.3
 
@@ -38,4 +44,4 @@ http://cafe.themarker.com/blog/16275/
 blog number:
 16275
 
-Welcome to Themarker Caf`e backupper by Prim1Tive
+
