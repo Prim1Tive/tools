@@ -3,8 +3,6 @@
 Welcome to Themarker Caf`e backupper by Prim1Tive
 
 `בעצם תוכנה שעוזרת לפשוטי העם לגבות את הבלוג שלהם בעקבות סגירת פינת הבלוגים של TheMarker`
-
-קוד המקור מפורסם תחת קובץ PY
  
 הורידו את התוכנה מכאן https://github.com/Prim1Tive/tools/raw/master/Crawlers/TMCBv0.3%20Requests/TMCBv0.3.exe
  
