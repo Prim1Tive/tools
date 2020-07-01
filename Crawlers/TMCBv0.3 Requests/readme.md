@@ -6,7 +6,7 @@ Welcome to Themarker Caf`e backupper by Prim1Tive
 
 קוד המקור מפורסם תחת קובץ PY
  
-הורידו את התוכנה מכאן https://github.com/Prim1Tive/tools/blob/master/Crawlers/TMCBv0.3%20Requests/TMCBv0.3.exe
+הורידו את התוכנה מכאן https://github.com/Prim1Tive/tools/raw/master/Crawlers/TMCBv0.3%20Requests/TMCBv0.3.exe
  
 > פתחו את הקובץ TMCBv0.3.exe
 
