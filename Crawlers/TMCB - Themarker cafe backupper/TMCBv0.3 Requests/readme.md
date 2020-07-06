@@ -6,13 +6,13 @@ Welcome to Themarker Caf`e backupper by Prim1Tive
  
 הורידו את התוכנה מכאן https://github.com/Prim1Tive/tools/raw/master/Crawlers/TMCBv0.3%20Requests/TMCBv0.3.exe
  
+מדריך קצר למציאת מספר הבלוג
 > פתחו את הקובץ TMCBv0.3.exe
 
 > התוכנה תבקש מכם את מספר הבלוג שלכם, את המספר ניתן לקבל דרך כניסה לבלוג עצמו והמספר יהיה רשום בסוף הקישור (הלינק) בדפדפן 
 
 
 
-מדריך קצר למציאת מספר הבלוג
 
 :דוגמא ללינק לבלוג
 http://cafe.themarker.com/blog/16275/
