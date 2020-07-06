@@ -1,4 +1,34 @@
-The Marker Cafe Backupper v0.2
+## עברית
+
+Welcome to Themarker Caf`e backupper by Prim1Tive
+
+`בעצם תוכנה שעוזרת לפשוטי העם לגבות את הבלוג שלהם בעקבות סגירת פינת הבלוגים של TheMarker`
+ 
+הורידו את התוכנה מכאן https://github.com/Prim1Tive/tools/raw/master/Crawlers/TMCBv0.3%20Requests/TMCBv0.3.exe
+ 
+> פתחו את הקובץ TMCBv0.3.exe
+
+> התוכנה תבקש מכם את מספר הבלוג שלכם, את המספר ניתן לקבל דרך כניסה לבלוג עצמו והמספר יהיה רשום בסוף הקישור (הלינק) בדפדפן 
+
+
+
+מדריך קצר למציאת מספר הבלוג
+
+:דוגמא ללינק לבלוג
+http://cafe.themarker.com/blog/16275/
+
+:מספר הבלוג יהיה
+16275
+
+
+
+
+## English
+
+
+Welcome to Themarker Caf`e backupper by Prim1Tive
+
+The Marker Cafe Backupper v0.3
 
 
 ```
@@ -17,4 +47,4 @@ http://cafe.themarker.com/blog/16275/
 blog number:
 16275
 
-Welcome to Themarker Caf`e backupper by Prim1Tive
+
