@@ -4,5 +4,3 @@ https://twitter.com/Prim1Tive
 Features:
 
 Search for username in various websites
-
-כל הזכויות שמורות©
