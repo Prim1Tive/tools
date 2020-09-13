@@ -1,0 +1,2517 @@
+NEW QUESTION 1
+- (Exam Topic 1)
+What does the -oX flag do in an Nmap scan?
+A. Perform an express scan
+B. Output the results in truncated format to the screen
+C. Perform an Xmas scan
+D. Output the results in XML format to a file
+Answer: D
+NEW QUESTION 2
+- (Exam Topic 1)
+You are a security officer of a company. You had an alert from IDS that indicates that one PC on your Intranet is connected to a blacklisted IP address (C2 Server)
+on the Internet. The IP address was blacklisted just before the alert. You are staring an investigation to roughly analyze the severity of the situation. Which of the
+following is appropriate to analyze?
+A. Event logs on the PC
+B. Internet Firewall/Proxy log
+C. IDS log
+D. Event logs on domain controller
+Answer: B
+NEW QUESTION 3
+- (Exam Topic 1)
+Which of the below hashing functions are not recommended for use?
+A. SHA-1.ECC
+B. MD5, SHA-1
+C. SHA-2. SHA-3
+D. MD5. SHA-5
+Answer: A
+NEW QUESTION 4
+- (Exam Topic 1)
+You perform a scan of your company’s network and discover that TCP port 123 is open. What services by default run on TCP port 123?
+A. Telnet
+B. POP3
+C. Network Time Protocol
+D. DNS
+Answer: C
+NEW QUESTION 5
+- (Exam Topic 1)
+Assume a business-crucial web-site of some company that is used to sell handsets to the customers worldwide. All the developed components are reviewed by the
+security team on a monthly basis. In order to drive business further, the web-site developers decided to add some 3rd party marketing tools on it. The tools are
+written in JavaScript and can track the customer’s activity on the site. These tools are located on the servers of the marketing company.
+What is the main security risk associated with this scenario?
+A. External script contents could be maliciously modified without the security team knowledge
+B. External scripts have direct access to the company servers and can steal the data from there
+C. There is no risk at all as the marketing services are trustworthy
+D. External scripts increase the outbound company data traffic which leads greater financial losses
+Answer: A
+NEW QUESTION 6
+- (Exam Topic 1)
+Code injection is a form of attack in which a malicious user:
+A. Inserts text into a data field that gets interpreted as code
+B. Gets the server to execute arbitrary code using a buffer overflow
+C. Inserts additional code into the JavaScript running in the browser
+D. Gains access to the codebase on the server and inserts new code
+Answer: A
+NEW QUESTION 7
+- (Exam Topic 1)
+Which of the following scanning method splits the TCP header into several packets and makes it difficult for packet filters to detect the purpose of the packet?
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+A. ICMP Echo scanning
+B. SYN/FIN scanning using IP fragments
+C. ACK flag probe scanning
+D. IPID scanning
+Answer: B
+NEW QUESTION 8
+- (Exam Topic 1)
+Which of the following attacks exploits web age vulnerabilities that allow an attacker to force an unsuspecting user’s browser to send malicious requests they did
+not intend?
+A. Command Injection Attacks
+B. File Injection Attack
+C. Cross-Site Request Forgery (CSRF)
+D. Hidden Field Manipulation Attack
+Answer: C
+NEW QUESTION 9
+- (Exam Topic 1)
+Which of the following DoS tools is used to attack target web applications by starvation of available sessions on the web server?
+The tool keeps sessions at halt using never-ending POST transmissions and sending an arbitrarily large content-length header value.
+A. My Doom
+B. Astacheldraht
+C. R-U-Dead-Yet?(RUDY)
+D. LOIC
+Answer: C
+NEW QUESTION 10
+- (Exam Topic 1)
+Some clients of TPNQM SA were redirected to a malicious site when they tried to access the TPNQM main site. Bob, a system administrator at TPNQM SA, found
+that they were victims of DNS Cache Poisoning.
+What should Bob recommend to deal with such a threat?
+A. The use of security agents in clients’ computers
+B. The use of DNSSEC
+C. The use of double-factor authentication
+D. Client awareness
+Answer: B
+NEW QUESTION 10
+- (Exam Topic 1)
+DHCP snooping is a great solution to prevent rogue DHCP servers on your network. Which security feature on switches leverages the DHCP snooping database
+to help prevent man-in-the-middle attacks?
+A. Port security
+B. A Layer 2 Attack Prevention Protocol (LAPP)
+C. Dynamic ARP inspection (DAI)
+D. Spanning tree
+Answer: C
+NEW QUESTION 13
+- (Exam Topic 1)
+You are the Network Admin, and you get a compliant that some of the websites are no longer accessible. You try to ping the servers and find them to be
+reachable. Then you type the IP address and then you try on the browser, and find it to be accessible. But they are not accessible when you try using the URL.
+What may be the problem?
+A. Traffic is Blocked on UDP Port 53
+B. Traffic is Blocked on UDP Port 80
+C. Traffic is Blocked on UDP Port 54
+D. Traffic is Blocked on UDP Port 80
+Answer: A
+NEW QUESTION 15
+- (Exam Topic 1)
+You are looking for SQL injection vulnerability by sending a special character to web applications. Which of the following is the most useful for quick validation?
+A. Double quotation
+B. Backslash
+C. Semicolon
+D. Single quotation
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: D
+NEW QUESTION 19
+- (Exam Topic 1)
+The collection of potentially actionable, overt, and publicly available information is known as
+A. Open-source intelligence
+B. Human intelligence
+C. Social intelligence
+D. Real intelligence
+Answer: A
+NEW QUESTION 22
+- (Exam Topic 1)
+An unauthorized individual enters a building following an employee through the employee entrance after the lunch rush. What type of breach has the individual just
+performed?
+A. Reverse Social Engineering
+B. Tailgating
+C. Piggybacking
+D. Announced
+Answer: B
+NEW QUESTION 23
+- (Exam Topic 1)
+Which of the following provides a security professional with most information about the system’s security posture?
+A. Wardriving, warchalking, social engineering
+B. Social engineering, company site browsing, tailgating
+C. Phishing, spamming, sending trojans
+D. Port scanning, banner grabbing, service identification
+Answer: D
+NEW QUESTION 25
+- (Exam Topic 1)
+When a security analyst prepares for the formal security assessment - what of the following should be done in order to determine inconsistencies in the secure
+assets database and verify that system is compliant to the minimum security baseline?
+A. Data items and vulnerability scanning
+B. Interviewing employees and network engineers
+C. Reviewing the firewalls configuration
+D. Source code review
+Answer: A
+NEW QUESTION 29
+- (Exam Topic 1)
+What is the minimum number of network connections in a multi homed firewall?
+A. 3
+B. 5
+C. 4
+D. 2
+Answer: A
+NEW QUESTION 31
+- (Exam Topic 1)
+Sam is working as s pen-tester in an organization in Houston. He performs penetration testing on IDS in order to find the different ways an attacker uses to evade
+the IDS. Sam sends a large amount of packets to the target IDS that generates alerts, which enable Sam to hide the real traffic. What type of method is Sam using
+to evade IDS?
+A. Denial-of-Service
+B. False Positive Generation
+C. Insertion Attack
+D. Obfuscating
+Answer: B
+NEW QUESTION 34
+- (Exam Topic 1)
+What type of analysis is performed when an attacker has partial knowledge of inner-workings of the application?
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+A. Black-box
+B. Announced
+C. White-box
+D. Grey-box
+Answer: D
+NEW QUESTION 36
+- (Exam Topic 1)
+A hacker is an intelligent individual with excellent computer skills and the ability to explore a computer's software and hardware without the owner’s permission.
+Their intention can either be to simply gain knowledge or to illegally make changes. Which of the following class of hacker refers to an individual who works both
+offensively and defensively at various times?
+A. Suicide Hacker
+B. Black Hat
+C. White Hat
+D. Gray Hat
+Answer: D
+NEW QUESTION 39
+- (Exam Topic 1)
+Identify the web application attack where the attackers exploit vulnerabilities in dynamically generated web pages to inject client-side script into web pages viewed
+by other users.
+A. SQL injection attack
+B. Cross-Site Scripting (XSS)
+C. LDAP Injection attack
+D. Cross-Site Request Forgery (CSRF)
+Answer: B
+NEW QUESTION 44
+- (Exam Topic 1)
+DNS cache snooping is a process of determining if the specified resource address is present in the DNS cache records. It may be useful during the examination of
+the network to determine what software update resources are used, thus discovering what software is installed.
+What command is used to determine if the entry is present in DNS cache?
+A. nslookup -fullrecursive update.antivirus.com
+B. dnsnooping –rt update.antivirus.com
+C. nslookup -norecursive update.antivirus.com
+D. dns --snoop update.antivirus.com
+Answer: C
+NEW QUESTION 46
+- (Exam Topic 1)
+What network security concept requires multiple layers of security controls to be placed throughout an IT infrastructure, which improves the security posture of an
+organization to defend against malicious attacks or potential vulnerabilities?
+What kind of Web application vulnerability likely exists in their software?
+A. Host-Based Intrusion Detection System
+B. Security through obscurity
+C. Defense in depth
+D. Network-Based Intrusion Detection System
+Answer: C
+NEW QUESTION 48
+- (Exam Topic 1)
+When tuning security alerts, what is the best approach?
+A. Tune to avoid False positives and False Negatives
+B. Rise False positives Rise False Negatives
+C. Decrease the false positives
+D. Decrease False negatives
+Answer: A
+NEW QUESTION 51
+- (Exam Topic 1)
+Bob, your senior colleague, has sent you a mail regarding a deal with one of the clients. You are requested to accept the offer and you oblige. After 2 days. Bob
+denies that he had ever sent a mail. What do you want to ""know"" to prove yourself that it was Bob who had send a mail?
+A. Authentication
+B. Confidentiality
+C. Integrity
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+D. Non-Repudiation
+Answer: D
+NEW QUESTION 53
+- (Exam Topic 1)
+Why containers are less secure that virtual machines?
+A. Host OS on containers has a larger surface attack.
+B. Containers may full fill disk space of the host.
+C. A compromise container may cause a CPU starvation of the host.
+D. Containers are attached to the same virtual network.
+Answer: A
+NEW QUESTION 56
+- (Exam Topic 1)
+Developers at your company are creating a web application which will be available for use by anyone on the Internet, The developers have taken the approach of
+implementing a Three-Tier Architecture for the web application. The developers are now asking you which network should the Presentation Tier (front- end web
+server) be placed in?
+A. isolated vlan network
+B. Mesh network
+C. DMZ network
+D. Internal network
+Answer: A
+NEW QUESTION 58
+- (Exam Topic 1)
+An attacker, using a rogue wireless AP, performed an MITM attack and injected an HTML code to embed a malicious applet in all HTTP connections.
+When users accessed any page, the applet ran and exploited many machines. Which one of the following tools the hacker probably used to inject HTML code?
+A. Wireshark
+B. Ettercap
+C. Aircrack-ng
+D. Tcpdump
+Answer: B
+NEW QUESTION 61
+- (Exam Topic 1)
+Email is transmitted across the Internet using the Simple Mail Transport Protocol. SMTP does not encrypt email, leaving the information in the message vulnerable
+to being read by an unauthorized person. SMTP can upgrade a connection between two mail servers to use TLS. Email transmitted by SMTP over TLS is
+encrypted. What is the name of the command used by SMTP to transmit email over TLS?
+A. OPPORTUNISTICTLS STARTTLS
+B. FORCETLS
+C. UPGRADETLS
+Answer: B
+NEW QUESTION 63
+- (Exam Topic 1)
+In which of the following password protection technique, random strings of characters are added to the password before calculating their hashes?
+A. Keyed Hashing
+B. Key Stretching
+C. Salting
+D. Double Hashing
+Answer: C
+NEW QUESTION 64
+- (Exam Topic 1)
+The network team has well-established procedures to follow for creating new rules on the firewall. This includes having approval from a manager prior to
+implementing any new rules. While reviewing the firewall configuration, you notice a recently implemented rule but cannot locate manager approval for it. What
+would be a good step to have in the procedures for a situation like this?
+A. Have the network team document the reason why the rule was implemented without prior manager approval.
+B. Monitor all traffic using the firewall rule until a manager can approve it.
+C. Do not roll back the firewall rule as the business may be relying upon it, but try to get manager approval as soon as possible.
+D. Immediately roll back the firewall rule until a manager can approve it
+Answer: D
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+NEW QUESTION 65
+- (Exam Topic 1)
+Identify the UDP port that Network Time Protocol (NTP) uses as its primary means of communication?
+A. 123
+B. 161
+C. 69
+D. 113
+Answer: A
+NEW QUESTION 69
+- (Exam Topic 1)
+If you want only to scan fewer ports than the default scan using Nmap tool, which option would you use?
+A. -sP
+B. -P
+C. -r
+D. -F
+Answer: B
+NEW QUESTION 74
+- (Exam Topic 1)
+Which of the following is an adaptive SQL Injection testing technique used to discover coding errors by inputting massive amounts of random data and observing
+the changes in the output?
+A. Function Testing
+B. Dynamic Testing
+C. Static Testing
+D. Fuzzing Testing
+Answer: D
+NEW QUESTION 78
+- (Exam Topic 1)
+Company XYZ has asked you to assess the security of their perimeter email gateway. From your office in New York, you craft a specially formatted email message
+and send it across the Internet to an employee of Company XYZ. The employee of Company XYZ is aware of your test.
+Your email message looks like this: From: jim_miller@companyxyz.com
+To: michelle_saunders@companyxyz.com Subject: Test message
+Date: 4/3/2017 14:37
+The employee of Company XYZ receives your email message. This proves that Company XYZ's email gateway doesn't prevent what?
+A. Email Phishing
+B. Email Masquerading
+C. Email Spoofing
+D. Email Harvesting
+Answer: C
+NEW QUESTION 83
+- (Exam Topic 1)
+Analyst is investigating proxy logs and found out that one of the internal user visited website storing suspicious Java scripts. After opening one of them, he noticed
+that it is very hard to understand the code and that all codes differ from the typical Java script. What is the name of this technique to hide the code and extend
+analysis time?
+A. Encryption
+B. Code encoding
+C. Obfuscation
+D. Steganography
+Answer: A
+NEW QUESTION 84
+- (Exam Topic 1)
+Which of the following Bluetooth hacking techniques does an attacker use to send messages to users without the recipient’s consent, similar to email spamming?
+A. Bluesmacking
+B. Bluesniffing
+C. Bluesnarfing
+D. Bluejacking
+Answer: D
+NEW QUESTION 86
+- (Exam Topic 1)
+You are a Penetration Tester and are assigned to scan a server. You need to use a scanning technique wherein the TCP Header is split into many packets so that
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+it becomes difficult to detect what the packets are meant for.
+Which of the below scanning technique will you use?
+A. ACK flag scanning
+B. TCP Scanning
+C. IP Fragment Scanning
+D. Inverse TCP flag scanning
+Answer: C
+NEW QUESTION 91
+- (Exam Topic 1)
+A hacker named Jack is trying to compromise a bank’s computer system. He needs to know the operating
+system of that computer to launch further attacks. What process would help him?
+A. Banner Grabbing
+B. IDLE/IPID Scanning
+C. SSDP Scanning
+D. UDP Scanning
+Answer: A
+NEW QUESTION 93
+- (Exam Topic 1)
+What type of vulnerability/attack is it when the malicious person forces the user’s browser to send an authenticated request to a server?
+A. Cross-site request forgery
+B. Cross-site scripting
+C. Session hijacking
+D. Server side request forgery
+Answer: A
+NEW QUESTION 97
+- (Exam Topic 1)
+Which Nmap option would you use if you were not concerned about being detected and wanted to perform a very fast scan?
+A. –T0
+B. –T5
+C. -O
+D. -A
+Answer: B
+NEW QUESTION 100
+- (Exam Topic 1)
+Bob finished a C programming course and created a small C application to monitor the network traffic and produce alerts when any origin sends “many” IP
+packets, based on the average number of packets sent by all origins and using some thresholds.
+In concept, the solution developed by Bob is actually:
+A. Just a network monitoring tool
+B. A signature-based IDS
+C. A hybrid IDS
+D. A behavior-based IDS
+Answer: A
+NEW QUESTION 105
+- (Exam Topic 2)
+The use of technologies like IPSec can help guarantee the following: authenticity, integrity, confidentiality and
+A. non-repudiation.
+B. operability.
+C. security.
+D. usability.
+Answer: A
+NEW QUESTION 109
+- (Exam Topic 2)
+Which of the following processes evaluates the adherence of an organization to its stated security policy?
+A. Vulnerability assessment
+B. Penetration testing
+C. Risk assessment
+D. Security auditing
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: D
+NEW QUESTION 111
+- (Exam Topic 2)
+The precaution of prohibiting employees from bringing personal computing devices into a facility is what type of security control?
+A. Physical
+B. Procedural
+C. Technical
+D. Compliance
+Answer: B
+NEW QUESTION 112
+- (Exam Topic 2)
+Which tool would be used to collect wireless packet data?
+A. NetStumbler
+B. John the Ripper
+C. Nessus
+D. Netcat
+Answer: A
+NEW QUESTION 113
+- (Exam Topic 2)
+After gaining access to the password hashes used to protect access to a web based application, knowledge of which cryptographic algorithms would be useful to
+gain access to the application?
+A. SHA1
+B. Diffie-Helman
+C. RSA
+D. AES
+Answer: A
+NEW QUESTION 116
+- (Exam Topic 2)
+Which of the following open source tools would be the best choice to scan a network for potential targets?
+A. NMAP
+B. NIKTO
+C. CAIN
+D. John the Ripper
+Answer: A
+NEW QUESTION 119
+- (Exam Topic 2)
+Which property ensures that a hash function will not produce the same hashed value for two different messages?
+A. Collision resistance
+B. Bit length
+C. Key strength
+D. Entropy
+Answer: A
+NEW QUESTION 123
+- (Exam Topic 2)
+What is one thing a tester can do to ensure that the software is trusted and is not changing or tampering with critical data on the back end of a system it is loaded
+on?
+A. Proper testing
+B. Secure coding principles
+C. Systems security and architecture review
+D. Analysis of interrupts within the software
+Answer: D
+NEW QUESTION 126
+- (Exam Topic 2)
+What are the three types of authentication?
+A. Something you: know, remember, prove
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+B. Something you: have, know, are
+C. Something you: show, prove, are
+D. Something you: show, have, prove
+Answer: B
+NEW QUESTION 129
+- (Exam Topic 2)
+Which of the following resources does NMAP need to be used as a basic vulnerability scanner covering several vectors like SMB, HTTP and FTP?
+A. Metasploit scripting engine
+B. Nessus scripting engine
+C. NMAP scripting engine
+D. SAINT scripting engine
+Answer: C
+NEW QUESTION 131
+- (Exam Topic 2)
+A tester has been hired to do a web application security test. The tester notices that the site is dynamic and must make use of a back end database.
+In order for the tester to see if SQL injection is possible, what is the first character that the tester should use to attempt breaking a valid SQL request?
+A. Semicolon
+B. Single quote
+C. Exclamation mark
+D. Double quote
+Answer: B
+NEW QUESTION 132
+- (Exam Topic 2)
+A security consultant decides to use multiple layers of anti-virus defense, such as end user desktop anti-virus and E-mail gateway. This approach can be used to
+mitigate which kind of attack?
+A. Forensic attack
+B. ARP spoofing attack
+C. Social engineering attack
+D. Scanning attack
+Answer: C
+NEW QUESTION 133
+- (Exam Topic 2)
+WPA2 uses AES for wireless data encryption at which of the following encryption levels?
+A. 64 bit and CCMP
+B. 128 bit and CRC
+C. 128 bit and CCMP
+D. 128 bit and TKIP
+Answer: C
+NEW QUESTION 138
+- (Exam Topic 2)
+Which type of scan is used on the eye to measure the layer of blood vessels?
+A. Facial recognition scan
+B. Retinal scan
+C. Iris scan
+D. Signature kinetics scan
+Answer: B
+NEW QUESTION 142
+- (Exam Topic 2)
+An attacker uses a communication channel within an operating system that is neither designed nor intended to transfer information. What is the name of the
+communications channel?
+A. Classified
+B. Overt
+C. Encrypted
+D. Covert
+Answer: D
+NEW QUESTION 147
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+- (Exam Topic 2)
+Which protocol and port number might be needed in order to send log messages to a log analysis tool that resides behind a firewall?
+A. UDP 123
+B. UDP 541
+C. UDP 514
+D. UDP 415
+Answer: C
+NEW QUESTION 148
+- (Exam Topic 2)
+During a wireless penetration test, a tester detects an access point using WPA2 encryption. Which of the following attacks should be used to obtain the key?
+A. The tester must capture the WPA2 authentication handshake and then crack it.
+B. The tester must use the tool inSSIDer to crack it using the ESSID of the network.
+C. The tester cannot crack WPA2 because it is in full compliance with the IEEE 802.11i standard.
+D. The tester must change the MAC address of the wireless network card and then use the AirTraf tool to obtain the key.
+Answer: A
+NEW QUESTION 149
+- (Exam Topic 2)
+What is the main disadvantage of the scripting languages as opposed to compiled programming languages?
+A. Scripting languages are hard to learn.
+B. Scripting languages are not object-oriented.
+C. Scripting languages cannot be used to create graphical user interfaces.
+D. Scripting languages are slower because they require an interpreter to run the code.
+Answer: D
+NEW QUESTION 152
+- (Exam Topic 2)
+A hacker, who posed as a heating and air conditioning specialist, was able to install a sniffer program in a switched environment network. Which attack could the
+hacker use to sniff all of the packets in the network?
+A. Fraggle
+B. MAC Flood
+C. Smurf
+D. Tear Drop
+Answer: B
+NEW QUESTION 153
+- (Exam Topic 2)
+Which of the following can the administrator do to verify that a tape backup can be recovered in its entirety?
+A. Restore a random file.
+B. Perform a full restore.
+C. Read the first 512 bytes of the tape.
+D. Read the last 512 bytes of the tape.
+Answer: B
+Explanation:
+A full restore is required.
+NEW QUESTION 157
+- (Exam Topic 2)
+While conducting a penetration test, the tester determines that there is a firewall between the tester's machine and the target machine. The firewall is only
+monitoring TCP handshaking of packets at the session layer of the OSI model. Which type of firewall is the tester trying to traverse?
+A. Packet filtering firewall
+B. Application-level firewall
+C. Circuit-level gateway firewall
+D. Stateful multilayer inspection firewall
+Answer: C
+NEW QUESTION 160
+- (Exam Topic 2)
+A security consultant is trying to bid on a large contract that involves penetration testing and reporting. The company accepting bids wants proof of work so the
+consultant prints out several audits that have been performed. Which of the following is likely to occur as a result?
+A. The consultant will ask for money on the bid because of great work.
+B. The consultant may expose vulnerabilities of other companies.
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+C. The company accepting bids will want the same type of format of testing.
+D. The company accepting bids will hire the consultant because of the great work performed.
+Answer: B
+NEW QUESTION 161
+- (Exam Topic 2)
+What is the outcome of the comm”nc -l -p 2222 | nc 10.1.0.43 1234"?
+A. Netcat will listen on the 10.1.0.43 interface for 1234 seconds on port 2222.
+B. Netcat will listen on port 2222 and output anything received to a remote connection on 10.1.0.43 port 1234.
+C. Netcat will listen for a connection from 10.1.0.43 on port 1234 and output anything received to port 2222.
+D. Netcat will listen on port 2222 and then output anything received to local interface 10.1.0.43.
+Answer: B
+NEW QUESTION 164
+- (Exam Topic 2)
+Which results will be returned with the following Google search query? site:target.com -site:Marketing.target.com accounting
+A. Results matching all words in the query
+B. Results matching “accounting” in domain target.com but not on the site Marketing.target.com
+C. Results from matches on the site marketing.target.com that are in the domain target.com but do not include the word accounting
+D. Results for matches on target.com and Marketing.target.com that include the word “accounting”
+Answer: B
+NEW QUESTION 168
+- (Exam Topic 2)
+A Network Administrator was recently promoted to Chief Security Officer at a local university. One of employee's new responsibilities is to manage the
+implementation of an RFID card access system to a new server room on campus. The server room will house student enrollment information that is securely
+backed up to an off-site location.
+During a meeting with an outside consultant, the Chief Security Officer explains that he is concerned that the existing security controls have not been designed
+properly. Currently, the Network Administrator is
+responsible for approving and issuing RFID card access to the server room, as well as reviewing the electronic access logs on a weekly basis.
+Which of the following is an issue with the situation?
+A. Segregation of duties
+B. Undue influence
+C. Lack of experience
+D. Inadequate disaster recovery plan
+Answer: A
+NEW QUESTION 171
+- (Exam Topic 2)
+Which type of intrusion detection system can monitor and alert on attacks, but cannot stop them?
+A. Detective
+B. Passive
+C. Intuitive
+D. Reactive
+Answer: B
+NEW QUESTION 176
+- (Exam Topic 2)
+Which of the following techniques does a vulnerability scanner use in order to detect a vulnerability on a target service?
+A. Port scanning
+B. Banner grabbing
+C. Injecting arbitrary data
+D. Analyzing service response
+Answer: D
+NEW QUESTION 179
+- (Exam Topic 2)
+A consultant is hired to do physical penetration testing at a large financial company. In the first day of his assessment, the consultant goes to the company`s
+building dressed like an electrician and waits in the lobby for an employee to pass through the main access gate, then the consultant follows the employee behind
+to get into the restricted area. Which type of attack did the consultant perform?
+A. Man trap
+B. Tailgating
+C. Shoulder surfing
+D. Social engineering
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: B
+NEW QUESTION 180
+- (Exam Topic 2)
+When an alert rule is matched in a network-based IDS like snort, the IDS does which of the following?
+A. Drops the packet and moves on to the next one
+B. Continues to evaluate the packet until all rules are checked
+C. Stops checking rules, sends an alert, and lets the packet continue
+D. Blocks the connection with the source IP address in the packet
+Answer: B
+NEW QUESTION 181
+- (Exam Topic 2)
+A hacker is attempting to use nslookup to query Domain Name Service (DNS). The hacker uses the nslookup interactive mode for the search. Which command
+should the hacker type into the command shell to request the appropriate records?
+A. Locate type=ns
+B. Request type=ns
+C. Set type=ns
+D. Transfer type=ns
+Answer: C
+NEW QUESTION 184
+- (Exam Topic 2)
+Which of the following is used to indicate a single-line comment in structured query language (SQL)?
+A. --
+B. ||
+C. %%
+D. ''
+Answer: A
+NEW QUESTION 188
+- (Exam Topic 2)
+When using Wireshark to acquire packet capture on a network, which device would enable the capture of all traffic on the wire?
+A. Network tap
+B. Layer 3 switch
+C. Network bridge
+D. Application firewall
+Answer: A
+NEW QUESTION 192
+- (Exam Topic 2)
+What technique is used to perform a Connection Stream Parameter Pollution (CSPP) attack?
+A. Injecting parameters into a connection string using semicolons as a separator
+B. Inserting malicious Javascript code into input parameters
+C. Setting a user's session identifier (SID) to an explicit known value
+D. Adding multiple parameters with the same name in HTTP requests
+Answer: A
+NEW QUESTION 195
+- (Exam Topic 2)
+A hacker is attempting to see which ports have been left open on a network. Which NMAP switch would the hacker use?
+A. -sO
+B. -sP
+C. -sS
+D. -sU
+Answer: A
+NEW QUESTION 198
+- (Exam Topic 2)
+Which NMAP command combination would let a tester scan every TCP port from a class C network that is blocking ICMP with fingerprinting and service detection?
+A. NMAP -PN -A -O -sS 192.168.2.0/24
+B. NMAP -P0 -A -O -p1-65535 192.168.0/24
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+C. NMAP -P0 -A -sT -p0-65535 192.168.0/16
+D. NMAP -PN -O -sS -p 1-1024 192.168.0/8
+Answer: B
+NEW QUESTION 200
+- (Exam Topic 2)
+Which of the following is an example of an asymmetric encryption implementation?
+A. SHA1
+B. PGP
+C. 3DES
+D. MD5
+Answer: B
+NEW QUESTION 205
+- (Exam Topic 2)
+A company is using Windows Server 2003 for its Active Directory (AD). What is the most efficient way to crack the passwords for the AD users?
+A. Perform a dictionary attack.
+B. Perform a brute force attack.
+C. Perform an attack with a rainbow table.
+D. Perform a hybrid attack.
+Answer: C
+NEW QUESTION 208
+- (Exam Topic 2)
+A penetration tester was hired to perform a penetration test for a bank. The tester began searching for IP ranges owned by the bank, performing lookups on the
+bank's DNS servers, reading news articles online about the bank, watching what times the bank employees come into work and leave from work, searching the
+bank's job postings (paying special attention to IT related jobs), and visiting the local dumpster for the bank's corporate office. What phase of the penetration test is
+the tester currently in?
+A. Information reporting
+B. Vulnerability assessment
+C. Active information gathering
+D. Passive information gathering
+Answer: D
+NEW QUESTION 212
+- (Exam Topic 2)
+Which security control role does encryption meet?
+A. Preventative
+B. Detective
+C. Offensive
+D. Defensive
+Answer: A
+NEW QUESTION 216
+- (Exam Topic 2)
+In order to show improvement of security over time, what must be developed?
+A. Reports
+B. Testing tools
+C. Metrics
+D. Taxonomy of vulnerabilities
+Answer: C
+Explanation:
+Today, management demands metrics to get a clearer view of security.
+Metrics that measure participation, effectiveness, and window of exposure, however, offer information the organization can use to make plans and improve
+programs.
+References:
+http://www.infoworld.com/article/2974642/security/4-security-metrics-that-matter.html
+NEW QUESTION 220
+- (Exam Topic 2)
+How is sniffing broadly categorized?
+A. Active and passive
+B. Broadcast and unicast
+C. Unmanaged and managed
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+D. Filtered and unfiltered
+Answer: A
+NEW QUESTION 224
+- (Exam Topic 2)
+Fingerprinting VPN firewalls is possible with which of the following tools?
+A. Angry IP
+B. Nikto
+C. Ike-scan
+D. Arp-scan
+Answer: C
+NEW QUESTION 229
+- (Exam Topic 2)
+Which tool can be used to silently copy files from USB devices?
+A. USB Grabber
+B. USB Dumper
+C. USB Sniffer
+D. USB Snoopy
+Answer: B
+NEW QUESTION 232
+- (Exam Topic 2)
+Which of the following is a strong post designed to stop a car?
+A. Gate
+B. Fence
+C. Bollard
+D. Reinforced rebar
+Answer: C
+NEW QUESTION 234
+- (Exam Topic 2)
+An NMAP scan of a server shows port 25 is open. What risk could this pose?
+A. Open printer sharing
+B. Web portal data leak
+C. Clear text authentication
+D. Active mail relay
+Answer: D
+NEW QUESTION 236
+- (Exam Topic 2)
+To send a PGP encrypted message, which piece of information from the recipient must the sender have before encrypting the message?
+A. Recipient's private key
+B. Recipient's public key
+C. Master encryption key
+D. Sender's public key
+Answer: B
+NEW QUESTION 240
+- (Exam Topic 2)
+Which of the following conditions must be given to allow a tester to exploit a Cross-Site Request Forgery (CSRF) vulnerable web application?
+A. The victim user must open the malicious link with an Internet Explorer prior to version 8.
+B. The session cookies generated by the application do not have the HttpOnly flag set.
+C. The victim user must open the malicious link with a Firefox prior to version 3.
+D. The web application should not use random tokens.
+Answer: D
+NEW QUESTION 245
+- (Exam Topic 2)
+A hacker is attempting to see which IP addresses are currently active on a network. Which NMAP switch would the hacker use?
+A. -sO
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+B. -sP
+C. -sS
+D. -sU
+Answer: B
+NEW QUESTION 246
+- (Exam Topic 2)
+A penetration tester is attempting to scan an internal corporate network from the internet without alerting the border sensor. Which is the most efficient technique
+should the tester consider using?
+A. Spoofing an IP address
+B. Tunneling scan over SSH
+C. Tunneling over high port numbers
+D. Scanning using fragmented IP packets
+Answer: B
+NEW QUESTION 248
+- (Exam Topic 2)
+During a penetration test, the tester conducts an ACK scan using NMAP against the external interface of the DMZ firewall. NMAP reports that port 80 is unfiltered.
+Based on this response, which type of packet inspection is the firewall conducting?
+A. Host
+B. Stateful
+C. Stateless
+D. Application
+Answer: C
+NEW QUESTION 253
+- (Exam Topic 2)
+An NMAP scan of a server shows port 69 is open. What risk could this pose?
+A. Unauthenticated access
+B. Weak SSL version
+C. Cleartext login
+D. Web portal data leak
+Answer: A
+NEW QUESTION 256
+- (Exam Topic 2)
+Which command line switch would be used in NMAP to perform operating system detection?
+A. -OS
+B. -sO
+C. -sP
+D. -O
+Answer: D
+NEW QUESTION 260
+- (Exam Topic 2)
+What is the main difference between a “Normal” SQL Injection and a “Blind” SQL Injection vulnerability?
+A. The request to the web server is not visible to the administrator of the vulnerable application.
+B. The attack is called “Blind” because, although the application properly filters user input, it is still vulnerable to code injection.
+C. The successful attack does not show an error message to the administrator of the affected application.
+D. The vulnerable application does not display errors with information about the injection results to the attacker.
+Answer: D
+NEW QUESTION 265
+- (Exam Topic 2)
+Which of the following programming languages is most vulnerable to buffer overflow attacks?
+A. Perl
+B. C++
+C. Python
+D. Java
+Answer: B
+NEW QUESTION 266
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+- (Exam Topic 2)
+A hacker searches in Google for filetype:pcf to find Cisco VPN config files. Those files may contain connectivity passwords that can be decoded with which of the
+following?
+A. Cupp
+B. Nessus
+C. Cain and Abel
+D. John The Ripper Pro
+Answer: C
+NEW QUESTION 270
+- (Exam Topic 2)
+Which tool is used to automate SQL injections and exploit a database by forcing a given web application to connect to another database controlled by a hacker?
+A. DataThief
+B. NetCat
+C. Cain and Abel
+D. SQLInjector
+Answer: A
+NEW QUESTION 271
+- (Exam Topic 2)
+A company has hired a security administrator to maintain and administer Linux and Windows-based systems. Written in the nightly report file is the following:
+Firewall log files are at the expected value of 4 MB. The current time is 12am. Exactly two hours later the size has decreased considerably. Another hour goes by
+and the log files have shrunk in size again.
+Which of the following actions should the security administrator take?
+A. Log the event as suspicious activity and report this behavior to the incident response team immediately.
+B. Log the event as suspicious activity, call a manager, and report this as soon as possible.
+C. Run an anti-virus scan because it is likely the system is infected by malware.
+D. Log the event as suspicious activity, continue to investigate, and act according to the site's security policy.
+Answer: D
+NEW QUESTION 275
+- (Exam Topic 2)
+ICMP ping and ping sweeps are used to check for active systems and to check
+A. if ICMP ping traverses a firewall.
+B. the route that the ICMP ping took.
+C. the location of the switchport in relation to the ICMP ping.
+D. the number of hops an ICMP ping takes to reach a destination.
+Answer: A
+NEW QUESTION 279
+- (Exam Topic 2)
+One way to defeat a multi-level security solution is to leak data via
+A. a bypass regulator.
+B. steganography.
+C. a covert channel.
+D. asymmetric routing.
+Answer: C
+NEW QUESTION 283
+- (Exam Topic 2)
+What is the correct PCAP filter to capture all TCP traffic going to or from host 192.168.0.125 on port 25?
+A. tcp.src == 25 and ip.host == 192.168.0.125
+B. host 192.168.0.125:25
+C. port 25 and host 192.168.0.125
+D. tcp.port == 25 and ip.host == 192.168.0.125
+Answer: D
+NEW QUESTION 285
+- (Exam Topic 2)
+Which of the following items of a computer system will an anti-virus program scan for viruses?
+A. Boot Sector
+B. Deleted Files
+C. Windows Process List
+D. Password Protected Files
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: A
+NEW QUESTION 288
+- (Exam Topic 2)
+What is the broadcast address for the subnet 190.86.168.0/22?
+A. 190.86.168.255
+B. 190.86.255.255
+C. 190.86.171.255
+D. 190.86.169.255
+Answer: C
+NEW QUESTION 293
+- (Exam Topic 2)
+A bank stores and processes sensitive privacy information related to home loans. However, auditing has never been enabled on the system. What is the first step
+that the bank should take before enabling the audit feature?
+A. Perform a vulnerability scan of the system.
+B. Determine the impact of enabling the audit feature.
+C. Perform a cost/benefit analysis of the audit feature.
+D. Allocate funds for staffing of audit log review.
+Answer: B
+NEW QUESTION 294
+- (Exam Topic 2)
+Which of the following programs is usually targeted at Microsoft Office products?
+A. Polymorphic virus
+B. Multipart virus
+C. Macro virus
+D. Stealth virus
+Answer: C
+Explanation:
+A macro virus is a virus that is written in a macro language: a programming language which is embedded inside a software application (e.g., word processors and
+spreadsheet applications). Some applications, such as Microsoft Office, allow macro programs to be embedded in documents such that the macros are run
+automatically when the document is opened, and this provides a distinct mechanism by which malicious computer instructions can spread.
+References: https://en.wikipedia.org/wiki/Macro_virus
+NEW QUESTION 299
+- (Exam Topic 2)
+Which of the following is a client-server tool utilized to evade firewall inspection?
+A. tcp-over-dns
+B. kismet
+C. nikto
+D. hping
+Answer: A
+NEW QUESTION 302
+- (Exam Topic 2)
+Which of the following viruses tries to hide from anti-virus programs by actively altering and corrupting the chosen service call interruptions when they are being
+run?
+A. Cavity virus
+B. Polymorphic virus
+C. Tunneling virus
+D. Stealth virus
+Answer: D
+NEW QUESTION 303
+- (Exam Topic 2)
+A large company intends to use Blackberry for corporate mobile phones and a security analyst is assigned to evaluate the possible threats. The analyst will use the
+Blackjacking attack method to demonstrate how an attacker could circumvent perimeter defenses and gain access to the corporate network. What tool should the
+analyst use to perform a Blackjacking attack?
+A. Paros Proxy
+B. BBProxy
+C. BBCrack
+D. Blooover
+Answer:
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+B
+Explanation:
+Blackberry users warned of hacking tool threat.
+Users have been warned that the security of Blackberry wireless e-mail devices is at risk due to the availability this week of a new hacking tool. Secure Computing
+Corporation said businesses that have installed Blackberry servers behind their gateway security devices could be vulnerable to a hacking attack from a tool call
+BBProxy.
+References:
+http://www.computerweekly.com/news/2240062112/Technology-news-in-brief
+NEW QUESTION 306
+- (Exam Topic 2)
+Which system consists of a publicly available set of databases that contain domain name registration contact information?
+A. WHOIS
+B. IANA
+C. CAPTCHA
+D. IETF
+Answer: A
+NEW QUESTION 311
+- (Exam Topic 2)
+Which of the following settings enables Nessus to detect when it is sending too many packets and the network pipe is approaching capacity?
+A. Netstat WMI Scan
+B. Silent Dependencies
+C. Consider unscanned ports as closed
+D. Reduce parallel connections on congestion
+Answer: D
+NEW QUESTION 315
+- (Exam Topic 2)
+A computer science student needs to fill some information into a secured Adobe PDF job application that was received from a prospective employer. Instead of
+requesting a new document that allowed the forms to be completed, the student decides to write a script that pulls passwords from a list of commonly used
+passwords to try against the secured PDF until the correct password is found or the list is exhausted.
+Which cryptography attack is the student attempting?
+A. Man-in-the-middle attack
+B. Brute-force attack
+C. Dictionary attack
+D. Session hijacking
+Answer: C
+NEW QUESTION 317
+- (Exam Topic 2)
+While performing data validation of web content, a security technician is required to restrict malicious input. Which of the following processes is an efficient way of
+restricting malicious input?
+A. Validate web content input for query strings.
+B. Validate web content input with scanning tools.
+C. Validate web content input for type, length, and range.
+D. Validate web content input for extraneous queries.
+Answer: C
+NEW QUESTION 321
+- (Exam Topic 2)
+What is the main advantage that a network-based IDS/IPS system has over a host-based solution?
+A. They do not use host system resources.
+B. They are placed at the boundary, allowing them to inspect all traffic.
+C. They are easier to install and configure.
+D. They will not interfere with user interfaces.
+Answer: A
+NEW QUESTION 322
+- (Exam Topic 2)
+Which of the following identifies the three modes in which Snort can be configured to run?
+A. Sniffer, Packet Logger, and Network Intrusion Detection System
+B. Sniffer, Network Intrusion Detection System, and Host Intrusion Detection System
+C. Sniffer, Host Intrusion Prevention System, and Network Intrusion Prevention System
+D. Sniffer, Packet Logger, and Host Intrusion Prevention System
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: A
+NEW QUESTION 326
+- (Exam Topic 3)
+Which vital role does the U.S. Computer Security Incident Response Team (CSIRT) provide?
+A. Incident response services to any user, company, government agency, or organization in partnership with the Department of Homeland Security
+B. Maintenance of the nation’s Internet infrastructure, builds out new Internet infrastructure, and decommissions old Internet infrastructure
+C. Registration of critical penetration testing for the Department of Homeland Security and public and private sectors
+D. Measurement of key vulnerability assessments on behalf of the Department of Defense (DOD) and State Department, as well as private sectors
+Answer: A
+NEW QUESTION 329
+- (Exam Topic 3)
+A certified ethical hacker (CEH) is approached by a friend who believes her husband is cheating. She offers to pay to break into her husband's email account in
+order to find proof so she can take him to court. What is the ethical response?
+A. Say no; the friend is not the owner of the account.
+B. Say yes; the friend needs help to gather evidence.
+C. Say yes; do the job for free.
+D. Say no; make sure that the friend knows the risk she’s asking the CEH to take.
+Answer: A
+NEW QUESTION 330
+- (Exam Topic 3)
+If an e-commerce site was put into a live environment and the programmers failed to remove the secret entry point that was used during the application
+development, what is this secret entry point known as?
+A. SDLC process
+B. Honey pot
+C. SQL injection
+D. Trap door
+Answer: D
+NEW QUESTION 335
+- (Exam Topic 3)
+The fundamental difference between symmetric and asymmetric key cryptographic systems is that symmetric key cryptography uses which of the following?
+A. Multiple keys for non-repudiation of bulk data
+B. Different keys on both ends of the transport medium
+C. Bulk encryption for data transmission over fiber
+D. The same key on each end of the transmission medium
+Answer: D
+NEW QUESTION 339
+- (Exam Topic 3)
+The Open Web Application Security Project (OWASP) testing methodology addresses the need to secure web applications by providing which one of the following
+services?
+A. An extensible security framework named COBIT
+B. A list of flaws and how to fix them
+C. Web application patches
+D. A security certification for hardened web applications
+Answer: B
+NEW QUESTION 341
+- (Exam Topic 3)
+Which element of Public Key Infrastructure (PKI) verifies the applicant?
+A. Certificate authority
+B. Validation authority
+C. Registration authority
+D. Verification authority
+Answer: C
+NEW QUESTION 345
+- (Exam Topic 3)
+When comparing the testing methodologies of Open Web Application Security Project (OWASP) and Open Source Security Testing Methodology Manual
+(OSSTMM) the main difference is
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+A. OWASP is for web applications and OSSTMM does not include web applications.
+B. OSSTMM is gray box testing and OWASP is black box testing.
+C. OWASP addresses controls and OSSTMM does not.
+D. OSSTMM addresses controls and OWASP does not.
+Answer: D
+NEW QUESTION 348
+- (Exam Topic 3)
+To reduce the attack surface of a system, administrators should perform which of the following processes to remove unnecessary software, services, and insecure
+configuration settings?
+A. Harvesting
+B. Windowing
+C. Hardening
+D. Stealthing
+Answer: C
+NEW QUESTION 353
+- (Exam Topic 3)
+Some passwords are stored using specialized encryption algorithms known as hashes. Why is this an appropriate method?
+A. It is impossible to crack hashed user passwords unless the key used to encrypt them is obtained.
+B. If a user forgets the password, it can be easily retrieved using the hash key stored by administrators.
+C. Hashing is faster compared to more traditional encryption algorithms.
+D. Passwords stored using hashes are non-reversible, making finding the password much more difficult.
+Answer: D
+NEW QUESTION 358
+- (Exam Topic 3)
+For messages sent through an insecure channel, a properly implemented digital signature gives the receiver reason to believe the message was sent by the
+claimed sender. While using a digital signature, the message digest is encrypted with which key?
+A. Sender's public key
+B. Receiver's private key
+C. Receiver's public key
+D. Sender's private key
+Answer: D
+NEW QUESTION 359
+- (Exam Topic 3)
+Which of the following algorithms provides better protection against brute force attacks by using a 160-bit message digest?
+A. MD5
+B. SHA-1
+C. RC4
+D. MD4
+Answer: B
+NEW QUESTION 364
+- (Exam Topic 3)
+Which security strategy requires using several, varying methods to protect IT systems against attacks?
+A. Defense in depth
+B. Three-way handshake
+C. Covert channels
+D. Exponential backoff algorithm
+Answer: A
+NEW QUESTION 365
+- (Exam Topic 3)
+Which of the following is a characteristic of Public Key Infrastructure (PKI)?
+A. Public-key cryptosystems are faster than symmetric-key cryptosystems.
+B. Public-key cryptosystems distribute public-keys within digital signatures.
+C. Public-key cryptosystems do not require a secure key distribution channel.
+D. Public-key cryptosystems do not provide technical non-repudiation via digital signatures.
+Answer: B
+NEW QUESTION 367
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+- (Exam Topic 3)
+Which of the following descriptions is true about a static NAT?
+A. A static NAT uses a many-to-many mapping.
+B. A static NAT uses a one-to-many mapping.
+C. A static NAT uses a many-to-one mapping.
+D. A static NAT uses a one-to-one mapping.
+Answer: D
+NEW QUESTION 371
+- (Exam Topic 3)
+A consultant has been hired by the V.P. of a large financial organization to assess the company's security posture. During the security testing, the consultant
+comes across child pornography on the V.P.'s computer. What is the consultant's obligation to the financial organization?
+A. Say nothing and continue with the security testing.
+B. Stop work immediately and contact the authorities.
+C. Delete the pornography, say nothing, and continue security testing.
+D. Bring the discovery to the financial organization's human resource department.
+Answer: B
+NEW QUESTION 373
+- (Exam Topic 3)
+Which of the following levels of algorithms does Public Key Infrastructure (PKI) use?
+A. RSA 1024 bit strength
+B. AES 1024 bit strength
+C. RSA 512 bit strength
+D. AES 512 bit strength
+Answer: A
+NEW QUESTION 377
+- (Exam Topic 3)
+An attacker has captured a target file that is encrypted with public key cryptography. Which of the attacks below is likely to be used to crack the target file?
+A. Timing attack
+B. Replay attack
+C. Memory trade-off attack
+D. Chosen plain-text attack
+Answer: D
+NEW QUESTION 381
+- (Exam Topic 3)
+While testing the company's web applications, a tester attempts to insert the following test script into the search area on the company's web site:
+<script>alert(" Testing Testing Testing ")</script>
+Afterwards, when the tester presses the search button, a pop-up box appears on the screen with the text: "Testing Testing Testing". Which vulnerability has been
+detected in the web application?
+A. Buffer overflow
+B. Cross-site request forgery
+C. Distributed denial of service
+D. Cross-site scripting
+Answer: D
+NEW QUESTION 383
+- (Exam Topic 3)
+A technician is resolving an issue where a computer is unable to connect to the Internet using a wireless access point. The computer is able to transfer files locally
+to other machines, but cannot successfully reach the Internet. When the technician examines the IP address and default gateway they are both on the
+192.168.1.0/24. Which of the following has occurred?
+A. The gateway is not routing to a public IP address.
+B. The computer is using an invalid IP address.
+C. The gateway and the computer are not on the same network.
+D. The computer is not using a private IP address.
+Answer: A
+NEW QUESTION 385
+- (Exam Topic 3)
+Which NMAP feature can a tester implement or adjust while scanning for open ports to avoid detection by the network’s IDS?
+A. Timing options to slow the speed that the port scan is conducted
+B. Fingerprinting to identify which operating systems are running on the network
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+C. ICMP ping sweep to determine which hosts on the network are not available
+D. Traceroute to control the path of the packets sent during the scan
+Answer: A
+NEW QUESTION 388
+- (Exam Topic 3)
+Employees in a company are no longer able to access Internet web sites on their computers. The network administrator is able to successfully ping IP address of
+web servers on the Internet and is able to open web sites by using an IP address in place of the URL. The administrator runs the nslookup command for
+www.eccouncil.org and receives an error message stating there is no response from the server. What should the administrator do next?
+A. Configure the firewall to allow traffic on TCP ports 53 and UDP port 53.
+B. Configure the firewall to allow traffic on TCP ports 80 and UDP port 443.
+C. Configure the firewall to allow traffic on TCP port 53.
+D. Configure the firewall to allow traffic on TCP port 8080.
+Answer: A
+NEW QUESTION 392
+- (Exam Topic 3)
+Which of the following network attacks takes advantage of weaknesses in the fragment reassembly functionality of the TCP/IP protocol stack?
+A. Teardrop
+B. SYN flood
+C. Smurf attack
+D. Ping of death
+Answer: A
+NEW QUESTION 396
+- (Exam Topic 3)
+How do employers protect assets with security policies pertaining to employee surveillance activities?
+A. Employers promote monitoring activities of employees as long as the employees demonstrate trustworthiness.
+B. Employers use informal verbal communication channels to explain employee monitoring activities to employees.
+C. Employers use network surveillance to monitor employee email traffic, network access, and to record employee keystrokes.
+D. Employers provide employees written statements that clearly discuss the boundaries of monitoring activities and consequences.
+Answer: D
+NEW QUESTION 400
+- (Exam Topic 3)
+Company A and Company B have just merged and each has its own Public Key Infrastructure (PKI). What must the Certificate Authorities (CAs) establish so that
+the private PKIs for Company A and Company B trust one another and each private PKI can validate digital certificates from the other company?
+A. Poly key exchange
+B. Cross certification
+C. Poly key reference
+D. Cross-site exchange
+Answer: B
+NEW QUESTION 405
+- (Exam Topic 3)
+An attacker sniffs encrypted traffic from the network and is subsequently able to decrypt it. The attacker can now use which cryptanalytic technique to attempt to
+discover the encryption key?
+A. Birthday attack
+B. Plaintext attack
+C. Meet in the middle attack
+D. Chosen ciphertext attack
+Answer: D
+NEW QUESTION 407
+- (Exam Topic 3)
+Which United States legislation mandates that the Chief Executive Officer (CEO) and the Chief Financial Officer (CFO) must sign statements verifying the
+completeness and accuracy of financial reports?
+A. Sarbanes-Oxley Act (SOX)
+B. Gramm-Leach-Bliley Act (GLBA)
+C. Fair and Accurate Credit Transactions Act (FACTA)
+D. Federal Information Security Management Act (FISMA)
+Answer: A
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+NEW QUESTION 410
+- (Exam Topic 3)
+What is the primary drawback to using advanced encryption standard (AES) algorithm with a 256 bit key to share sensitive data?
+A. Due to the key size, the time it will take to encrypt and decrypt the message hinders efficient communication.
+B. To get messaging programs to function with this algorithm requires complex configurations.
+C. It has been proven to be a weak cipher; therefore, should not be trusted to protect sensitive data.
+D. It is a symmetric key algorithm, meaning each recipient must receive the key through a different channel than the message.
+Answer: D
+NEW QUESTION 412
+- (Exam Topic 3)
+Which type of security document is written with specific step-by-step details?
+A. Process
+B. Procedure
+C. Policy
+D. Paradigm
+Answer: B
+NEW QUESTION 416
+- (Exam Topic 4)
+Which of the following is the least-likely physical characteristic to be used in biometric control that supports a large company?
+A. Height and Weight
+B. Voice
+C. Fingerprints
+D. Iris patterns
+Answer: A
+Explanation:
+There are two main types of biometric identifiers:
+Examples of physiological characteristics used for biometric authentication include fingerprints; DNA; face, hand, retina or ear features; and odor. Behavioral
+characteristics are related to the pattern of the behavior of a person, such as typing rhythm, gait, gestures and voice.
+References:
+http://searchsecurity.techtarget.com/definition/biometrics
+NEW QUESTION 420
+- (Exam Topic 4)
+Perspective clients want to see sample reports from previous penetration tests. What should you do next?
+A. Decline but, provide references.
+B. Share full reports, not redacted.
+C. Share full reports with redactions.
+D. Share reports, after NDA is signed.
+Answer: A
+Explanation:
+Penetration tests data should not be disclosed to third parties.
+NEW QUESTION 422
+- (Exam Topic 4)
+You have successfully gained access to your client's internal network and successfully comprised a Linux server which is part of the internal IP network. You want
+to know which Microsoft Windows workstations have file sharing enabled.
+Which port would you see listening on these Windows machines in the network?
+A. 445
+B. 3389
+C. 161
+D. 1433
+Answer: A
+Explanation:
+The following ports are associated with file sharing and server message block (SMB) communications: References: https://support.microsoft.com/en-us/kb/298804
+NEW QUESTION 426
+- (Exam Topic 4)
+You have successfully gained access to a linux server and would like to ensure that the succeeding outgoing traffic from this server will not be caught by a Network
+Based Intrusion Detection Systems (NIDS).
+What is the best way to evade the NIDS?
+A. Encryption
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+B. Protocol Isolation
+C. Alternate Data Streams
+D. Out of band signalling
+Answer: A
+Explanation:
+When the NIDS encounters encrypted traffic, the only analysis it can perform is packet level analysis, since the application layer contents are inaccessible. Given
+that exploits against today's networks are primarily targeted against network services (application layer entities), packet level analysis ends up doing very little to
+protect our core business assets.
+References:
+http://www.techrepublic.com/article/avoid-these-five-common-ids-implementation-errors/
+NEW QUESTION 427
+- (Exam Topic 4)
+The purpose of a _____ is to deny network access to local area networks and other information assets by unauthorized wireless devices.
+A. Wireless Intrusion Prevention System
+B. Wireless Access Point
+C. Wireless Access Control List
+D. Wireless Analyzer
+Answer: A
+Explanation:
+A wireless intrusion prevention system (WIPS) is a network device that monitors the radio spectrum for the presence of unauthorized access points (intrusion
+detection), and can automatically take countermeasures (intrusion prevention).
+References: https://en.wikipedia.org/wiki/Wireless_intrusion_prevention_system
+NEW QUESTION 429
+- (Exam Topic 4)
+How does the Address Resolution Protocol (ARP) work?
+A. It sends a request packet to all the network elements, asking for the MAC address from a specific IP.
+B. It sends a reply packet to all the network elements, asking for the MAC address from a specific IP.
+C. It sends a reply packet for a specific IP, asking for the MAC address.
+D. It sends a request packet to all the network elements, asking for the domain name from a specific IP.
+Answer: A
+Explanation:
+When an incoming packet destined for a host machine on a particular local area network arrives at a gateway, the gateway asks the ARP program to find a
+physical host or MAC address that matches the IP address. The ARP program looks in the ARP cache and, if it finds the address, provides it so that the packet
+can be converted to the right packet length and format and sent to the machine. If no entry is found for the IP address, ARP broadcasts a request packet in a
+special format to all the machines on the LAN to see if one machine knows that it has that IP address associated with it. A machine that recognizes the IP address
+as its own returns a reply so indicating. ARP updates the ARP cache for future reference and then sends the packet to the MAC address that replied.
+References:
+http://searchnetworking.techtarget.com/definition/Address-Resolution-Protocol-ARP
+NEW QUESTION 432
+- (Exam Topic 4)
+You are a Network Security Officer. You have two machines. The first machine (192.168.0.99) has snort installed, and the second machine (192.168.0.150) has
+kiwi syslog installed. You perform a syn scan in your network, and you notice that kiwi syslog is not receiving the alert message from snort. You decide to run
+wireshark in the snort machine to check if the messages are going to the kiwi syslog machine.
+What wireshark filter will show the connections from the snort machine to kiwi syslog machine?
+A. tcp.dstport==514 && ip.dst==192.168.0.150
+B. tcp.srcport==514 && ip.src==192.168.0.99
+C. tcp.dstport==514 && ip.dst==192.168.0.0/16
+D. tcp.srcport==514 && ip.src==192.168.150
+Answer: A
+Explanation:
+We need to configure destination port at destination ip. The destination ip is 192.168.0.150, where the kiwi syslog is installed.
+References: https://wiki.wireshark.org/DisplayFilters
+NEW QUESTION 434
+- (Exam Topic 4)
+env x=`(){ :;};echo exploit` bash -c 'cat /etc/passwd'
+What is the Shellshock bash vulnerability attempting to do on a vulnerable Linux host?
+A. Display passwd content to prompt
+B. Removes the passwd file
+C. Changes all passwords in passwd
+D. Add new user to the passwd file
+Answer: A
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Explanation:
+To extract private information, attackers are using a couple of techniques. The simplest extraction attacks are in the form:
+() {:;}; /bin/cat /etc/passwd
+That reads the password file /etc/passwd, and adds it to the response from the web server. So an attacker injecting this code through the Shellshock vulnerability
+would see the password file dumped out onto their screen as part of the web page returned.
+References: https://blog.cloudflare.com/inside-shellshock/
+NEW QUESTION 436
+- (Exam Topic 4)
+You have successfully compromised a machine on the network and found a server that is alive on the same network. You tried to ping it but you didn't get any
+response back.
+What is happening?
+A. ICMP could be disabled on the target server.
+B. The ARP is disabled on the target server.
+C. TCP/IP doesn't support ICMP.
+D. You need to run the ping command with root privileges.
+Answer: A
+Explanation:
+The ping utility is implemented using the ICMP "Echo request" and "Echo reply" messages.
+Note: The Internet Control Message Protocol (ICMP) is one of the main protocols of the internet protocol suite. It is used by network devices, like routers, to send
+error messages indicating, for example, that a requested service is not available or that a host or router could not be reached.
+References: https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol
+NEW QUESTION 441
+- (Exam Topic 4)
+Which of the following is the BEST way to defend against network sniffing?
+A. Using encryption protocols to secure network communications
+B. Register all machines MAC Address in a Centralized Database
+C. Restrict Physical Access to Server Rooms hosting Critical Servers
+D. Use Static IP Address
+Answer: A
+Explanation:
+A way to protect your network traffic from being sniffed is to use encryption such as Secure Sockets Layer (SSL) or Transport Layer Security (TLS). Encryption
+doesn't prevent packet sniffers from seeing source and destination information, but it does encrypt the data packet's payload so that all the sniffer sees is
+encrypted gibberish.
+References:
+http://netsecurity.about.com/od/informationresources/a/What-Is-A-Packet-Sniffer.htm
+NEW QUESTION 446
+- (Exam Topic 4)
+When you return to your desk after a lunch break, you notice a strange email in your inbox. The sender is someone you did business with recently, but the subject
+line has strange characters in it.
+What should you do?
+A. Forward the message to your company’s security response team and permanently delete the message from your computer.
+B. Reply to the sender and ask them for more information about the message contents.
+C. Delete the email and pretend nothing happened
+D. Forward the message to your supervisor and ask for her opinion on how to handle the situation
+Answer: A
+Explanation:
+By setting up an email address for your users to forward any suspicious email to, the emails can be automatically scanned and replied to, with security incidents
+created to follow up on any emails with attached malware or links to known bad websites.
+References:
+https://docs.servicenow.com/bundle/helsinki-security-management/page/product/threat-intelligence/task/t_Confi
+NEW QUESTION 451
+- (Exam Topic 4)
+It is a short-range wireless communication technology intended to replace the cables connecting portable of fixed devices while maintaining high levels of security.
+It allows mobile phones, computers and other devices to connect and communicate using a short-range wireless connection.
+Which of the following terms best matches the definition?
+A. Bluetooth
+B. Radio-Frequency Identification
+C. WLAN
+D. InfraRed
+Answer: A
+Explanation:
+Bluetooth is a standard for the short-range wireless interconnection of mobile phones, computers, and other electronic devices.
+References:
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+http://www.bbc.co.uk/webwise/guides/about-bluetooth
+NEW QUESTION 453
+- (Exam Topic 4)
+You are attempting to man-in-the-middle a session. Which protocol will allow you to guess a sequence number?
+A. TCP
+B. UPD
+C. ICMP
+D. UPX
+Answer: A
+Explanation:
+At the establishment of a TCP session the client starts by sending a SYN-packet (SYN=synchronize) with a sequence number. To hijack a session it is required to
+send a packet with a right seq-number, otherwise they are dropped.
+References: https://www.exploit-db.com/papers/13587/
+NEW QUESTION 455
+- (Exam Topic 4)
+You are using NMAP to resolve domain names into IP addresses for a ping sweep later.
+Which of the following commands looks for IP addresses?
+A. >host -t a hackeddomain.com
+B. >host -t soa hackeddomain.com
+C. >host -t ns hackeddomain.com
+D. >host -t AXFR hackeddomain.com
+Answer: A
+Explanation:
+The A record is an Address record. It returns a 32-bit IPv4 address, most commonly used to map hostnames to an IP address of the host.
+References: https://en.wikipedia.org/wiki/List_of_DNS_record_types
+NEW QUESTION 459
+- (Exam Topic 4)
+During a recent security assessment, you discover the organization has one Domain Name Server (DNS) in a Demilitarized Zone (DMZ) and a second DNS server
+on the internal network.
+What is this type of DNS configuration commonly called?
+A. Split DNS
+B. DNSSEC
+C. DynDNS
+D. DNS Scheme
+Answer: A
+Explanation:
+In a split DNS infrastructure, you create two zones for the same domain, one to be used by the internal network, the other used by the external network. Split DNS
+directs internal hosts to an internal domain name server for name resolution and external hosts are directed to an external domain name server for name
+resolution.
+References:
+http://www.webopedia.com/TERM/S/split_DNS.html
+NEW QUESTION 462
+- (Exam Topic 4)
+The Open Web Application Security Project (OWASP) is the worldwide not-for-profit charitable organization focused on improving the security of software. What
+item is the primary concern on OWASP's Top Ten Project Most Critical Web Application Security Risks?
+A. Injection
+B. Cross Site Scripting
+C. Cross Site Request Forgery
+D. Path disclosure
+Answer: A
+Explanation:
+The top item of the OWASP 2013 OWASP's Top Ten Project Most Critical Web Application Security Risks is injection.
+Injection flaws, such as SQL, OS, and LDAP injection occur when untrusted data is sent to an interpreter as part of a command or query. The attacker’s hostile
+data can trick the interpreter into executing unintended commands or accessing data without proper authorization.
+References: https://www.owasp.org/index.php/Top_10_2013-Top_10
+NEW QUESTION 467
+- (Exam Topic 4)
+Which regulation defines security and privacy controls for Federal information systems and organizations?
+A. NIST-800-53
+B. PCI-DSS
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+C. EU Safe Harbor
+D. HIPAA
+Answer: A
+Explanation:
+NIST Special Publication 800-53, "Security and Privacy Controls for Federal Information Systems and Organizations," provides a catalog of security controls for all
+U.S. federal information systems except those related to national security.
+References: https://en.wikipedia.org/wiki/NIST_Special_Publication_800-53
+NEW QUESTION 471
+- (Exam Topic 4)
+This tool is an 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured. It implements the
+standard FMS attack along with some optimizations like KoreK attacks, as well as the PTW attack, thus making the attack much faster compared to other WEP
+cracking tools.
+Which of the following tools is being described?
+A. Aircrack-ng
+B. Airguard
+C. WLAN-crack
+D. wificracker
+Answer: A
+Explanation:
+Aircrack-ng is a complete suite of tools to assess WiFi network security.
+The default cracking method of Aircrack-ng is PTW, but Aircrack-ng can also use the FMS/KoreK method, which incorporates various statistical attacks to discover
+the WEP key and uses these in combination with brute forcing.
+References:
+http://www.aircrack-ng.org/doku.php?id=aircrack-ng
+NEW QUESTION 472
+- (Exam Topic 4)
+Which of the following is assured by the use of a hash?
+A. Integrity
+B. Confidentiality
+C. Authentication
+D. Availability
+Answer: A
+Explanation:
+An important application of secure hashes is verification of message integrity. Determining whether any changes have been made to a message (or a file), for
+example, can be accomplished by comparing message digests calculated before, and after, transmission (or any other event).
+References: https://en.wikipedia.org/wiki/Cryptographic_hash_function#Verifying_the_integrity_of_files_or_messages
+NEW QUESTION 474
+- (Exam Topic 4)
+Which tool allows analysts and pen testers to examine links between data using graphs and link analysis?
+A. Maltego
+B. Cain & Abel
+C. Metasploit
+D. Wireshark
+Answer: A
+Explanation:
+Maltego is proprietary software used for open-source intelligence and forensics, developed by Paterva. Maltego focuses on providing a library of transforms for
+discovery of data from open sources, and visualizing that information in a graph format, suitable for link analysis and data mining.
+References: https://en.wikipedia.org/wiki/Maltego
+NEW QUESTION 475
+- (Exam Topic 4)
+Which mode of IPSec should you use to assure security and confidentiality of data within the same LAN?
+A. ESP transport mode
+B. AH permiscuous
+C. ESP confidential
+D. AH Tunnel mode
+Answer: A
+Explanation:
+When transport mode is used, IPSec encrypts only the IP payload. Transport mode provides the protection of an IP payload through an AH or ESP header.
+Encapsulating Security Payload (ESP) provides confidentiality (in addition to authentication, integrity, and anti-replay protection) for the IP payload.
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+NEW QUESTION 479
+- (Exam Topic 4)
+Which of the following is the greatest threat posed by backups?
+A. A backup is the source of Malware or illicit information.
+B. A backup is unavailable during disaster recovery.
+C. A backup is incomplete because no verification was performed.
+D. An un-encrypted backup can be misplaced or stolen.
+Answer: D
+Explanation:
+If the data written on the backup media is properly encrypted, it will be useless for anyone without the key.
+References:
+http://resources.infosecinstitute.com/backup-media-encryption/
+NEW QUESTION 481
+- (Exam Topic 4)
+What is the process of logging, recording, and resolving events that take place in an organization?
+A. Incident Management Process
+B. Security Policy
+C. Internal Procedure
+D. Metrics
+Answer: A
+Explanation:
+The activities within the incident management process include:
+References: https://en.wikipedia.org/wiki/Incident_management_(ITSM)#Incident_management_procedure
+NEW QUESTION 485
+- (Exam Topic 4)
+Jimmy is standing outside a secure entrance to a facility. He is pretending to have a tense conversation on his cell phone as an authorized employee badges in.
+Jimmy, while still on the phone, grabs the door as it begins to close.
+What just happened?
+A. Piggybacking
+B. Masqurading
+C. Phishing
+D. Whaling
+Answer: A
+Explanation:
+In security, piggybacking refers to when a person tags along with another person who is authorized to gain entry into a restricted area, or pass a certain
+checkpoint.
+References: https://en.wikipedia.org/wiki/Piggybacking_(security)
+NEW QUESTION 490
+- (Exam Topic 4)
+You just set up a security system in your network. In what kind of system would you find the following string of characters used as a rule within its configuration?
+alert tcp any any -> 192.168.100.0/24 21 (msg: "FTP on the network!";)
+A. An Intrusion Detection System
+B. A firewall IPTable
+C. A Router IPTable
+D. FTP Server rule
+Answer: A
+Explanation:
+Snort is an open source network intrusion detection system (NIDS) for networks . Snort rule example:
+This example is a rule with a generator id of 1000001.
+alert tcp any any -> any 80 (content:"BOB"; gid:1000001; sid:1; rev:1;)
+References:
+http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node31.html
+NEW QUESTION 493
+- (Exam Topic 4)
+While using your bank’s online servicing you notice the following string in the URL bar: “http://www.MyPersonalBank.com/account?id=368940911028389
+&Damount=10980&Camount=21”
+You observe that if you modify the Damount & Camount values and submit the request, that data on the web page reflect the changes.
+Which type of vulnerability is present on this site?
+A. Web Parameter Tampering
+B. Cookie Tampering
+C. XSS Reflection
+D. SQL injection
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: A
+Explanation:
+The Web Parameter Tampering attack is based on the manipulation of parameters exchanged between client and server in order to modify application data, such
+as user credentials and permissions, price and quantity of products, etc. Usually, this information is stored in cookies, hidden form fields, or URL Query Strings,
+and is used to increase application functionality and control.
+References: https://www.owasp.org/index.php/Web_Parameter_Tampering
+NEW QUESTION 494
+- (Exam Topic 4)
+An attacker changes the profile information of a particular user (victim) on the target website. The attacker uses this string to update the victim’s profile to a text file
+and then submit the data to the attacker’s database.
+<iframe src="http://www.vulnweb.com/updateif.php" style="display:none"></iframe>
+What is this type of attack (that can use either HTTP GET or HTTP POST) called?
+A. Cross-Site Request Forgery
+B. Cross-Site Scripting
+C. SQL Injection
+D. Browser Hacking
+Answer: A
+Explanation:
+Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF (sometimes pronounced sea-surf) or XSRF, is a type of
+malicious exploit of a website where unauthorized commands are transmitted from a user that the website trusts.
+Different HTTP request methods, such as GET and POST, have different level of susceptibility to CSRF attacks and require different levels of protection due to
+their different handling by web browsers.
+References: https://en.wikipedia.org/wiki/Cross-site_request_forgery
+NEW QUESTION 497
+- (Exam Topic 4)
+You are tasked to perform a penetration test. While you are performing information gathering, you find an employee list in Google. You find the receptionist's email,
+and you send her an email changing the source email to her boss's email( boss@company ). In this email, you ask for a pdf with information. She reads your email
+and sends back a pdf with links. You exchange the pdf links with your malicious links (these links contain malware) and send back the modified pdf, saying that the
+links don't work. She reads your email, opens the links, and her machine gets infected. You now have access to the company network.
+What testing method did you use?
+A. Social engineering
+B. Tailgating
+C. Piggybacking
+D. Eavesdropping
+Answer: A
+Explanation:
+Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential
+information. A type of confidence trick for the purpose of information gathering, fraud, or system access, it differs from a traditional "con" in that it is often one of
+many steps in a more complex fraud scheme.
+NEW QUESTION 501
+- (Exam Topic 4)
+The network administrator contacts you and tells you that she noticed the temperature on the internal wireless router increases by more than 20% during weekend
+hours when the office was closed. She asks you to investigate the issue because she is busy dealing with a big conference and she doesn’t have time to perform
+the task.
+What tool can you use to view the network traffic being sent and received by the wireless router?
+A. Wireshark
+B. Nessus
+C. Netcat
+D. Netstat
+Answer: A
+Explanation:
+Wireshark is a Free and open source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and
+education.
+NEW QUESTION 502
+- (Exam Topic 4)
+Your company was hired by a small healthcare provider to perform a technical assessment on the network. What is the best approach for discovering
+vulnerabilities on a Windows-based computer?
+A. Use a scan tool like Nessus
+B. Use the built-in Windows Update tool
+C. Check MITRE.org for the latest list of CVE findings
+D. Create a disk image of a clean Windows installation
+Answer: A
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Explanation:
+Nessus is an open-source network vulnerability scanner that uses the Common Vulnerabilities and Exposures architecture for easy cross-linking between
+compliant security tools.
+The Nessus server is currently available for Unix, Linux and FreeBSD. The client is available for Unix- or Windows-based operating systems.
+Note: Significant capabilities of Nessus include: References: http://searchnetworking.techtarget.com/definition/Nessus
+NEW QUESTION 504
+- (Exam Topic 4)
+You are performing a penetration test. You achieved access via a buffer overflow exploit and you proceed to find interesting data, such as files with usernames
+and passwords. You find a hidden folder that has the administrator's bank account password and login information for the administrator's bitcoin account.
+What should you do?
+A. Report immediately to the administrator
+B. Do not report it and continue the penetration test.
+C. Transfer money from the administrator's account to another account.
+D. Do not transfer the money but steal the bitcoins.
+Answer: A
+NEW QUESTION 506
+- (Exam Topic 5)
+While performing online banking using a Web browser, a user receives an email that contains a link to an interesting Web site. When the user clicks on the link,
+another Web browser session starts and displays a video of cats playing a piano. The next business day, the user receives what looks like an email from his bank,
+indicating that his bank account has been accessed from a foreign country. The email asks the user to call his bank and verify the authorization of a funds transfer
+that took place.
+What Web browser-based security vulnerability was exploited to compromise the user?
+A. Cross-Site Request Forgery
+B. Cross-Site Scripting
+C. Clickjacking
+D. Web form input validation
+Answer: A
+Explanation:
+Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF or XSRF, is a type of malicious exploit of a website where
+unauthorized commands are transmitted from a user that the website trusts.
+Example and characteristics
+If an attacker is able to find a reproducible link that executes a specific action on the target page while the victim is being logged in there, he is able to embed such
+link on a page he controls and trick the victim into opening it. The attack carrier link may be placed in a location that the victim is likely to visit while logged into the
+target site (e.g. a discussion forum), sent in a HTML email body or attachment.
+NEW QUESTION 508
+- (Exam Topic 5)
+Which of the following areas is considered a strength of symmetric key cryptography when compared with asymmetric algorithms?
+A. Scalability
+B. Speed
+C. Key distribution
+D. Security
+Answer: B
+NEW QUESTION 510
+- (Exam Topic 5)
+Which of the following is a protocol specifically designed for transporting event messages?
+A. SYSLOG
+B. SMS
+C. SNMP
+D. ICMP
+Answer: A
+Explanation:
+syslog is a standard for message logging. It permits separation of the software that generates messages, the system that stores them, and the software that
+reports and analyzes them. Each message is labeled with a facility code, indicating the software type generating the message, and assigned a severity label.
+References: https://en.wikipedia.org/wiki/Syslog#Network_protocol
+NEW QUESTION 512
+- (Exam Topic 5)
+Internet Protocol Security IPSec is actually a suite of protocols. Each protocol within the suite provides different functionality. Collective IPSec does everything
+except.
+A. Protect the payload and the headers
+B. Authenticate
+C. Encrypt
+D. Work at the Data Link Layer
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: D
+NEW QUESTION 517
+- (Exam Topic 5)
+Which of the following is designed to identify malicious attempts to penetrate systems?
+A. Intrusion Detection System
+B. Firewall
+C. Proxy
+D. Router
+Answer: A
+Explanation:
+An intrusion detection system (IDS) is a device or software application that monitors network or system activities for malicious activities or policy violations and
+produces electronic reports to a management station.
+References: https://en.wikipedia.org/wiki/Intrusion_detection_system
+NEW QUESTION 521
+- (Exam Topic 5)
+What network security concept requires multiple layers of security controls to be placed throughout an IT infrastructure, which improves the security posture of an
+organization to defend against malicious attacks or potential vulnerabilities?
+A. Security through obscurity
+B. Host-Based Intrusion Detection System
+C. Defense in depth
+D. Network-Based Intrusion Detection System
+Answer: C
+NEW QUESTION 525
+- (Exam Topic 5)
+The company ABC recently discovered that their new product was released by the opposition before their premiere. They contract an investigator who discovered
+that the maid threw away papers with confidential information about the new product and the opposition found it in the garbage. What is the name of the technique
+used by the opposition?
+A. Hack attack
+B. Sniffing
+C. Dumpster diving
+D. Spying
+Answer: C
+NEW QUESTION 529
+- (Exam Topic 5)
+Craig received a report of all the computers on the network that showed all the missing patches and weak passwords. What type of software generated this report?
+A. a port scanner
+B. a vulnerability scanner
+C. a virus scanner
+D. a malware scanner
+Answer: B
+NEW QUESTION 530
+- (Exam Topic 5)
+PGP, SSL, and IKE are all examples of which type of cryptography?
+A. Public Key
+B. Secret Key
+C. Hash Algorithm
+D. Digest
+Answer: A
+Explanation:
+Public-key algorithms are fundamental security ingredients in cryptosystems, applications and protocols. They underpin various Internet standards, such as Secure
+Sockets Layer (SSL),Transport Layer Security (TLS), S/MIME, PGP, Internet Key Exchange (IKE or IKEv2), and GPG.
+References: https://en.wikipedia.org/wiki/Public-key_cryptography
+NEW QUESTION 534
+- (Exam Topic 5)
+In Risk Management, how is the term "likelihood" related to the concept of "threat?"
+A. Likelihood is the probability that a threat-source will exploit a vulnerability.
+B. Likelihood is a possible threat-source that may exploit a vulnerability.
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+C. Likelihood is the likely source of a threat that could exploit a vulnerability.
+D. Likelihood is the probability that a vulnerability is a threat-source.
+Answer: A
+Explanation:
+The ability to analyze the likelihood of threats within the organization is a critical step in building an effective security program. The process of assessing threat
+probability should be well defined and incorporated into a broader threat analysis process to be effective.
+References:
+http://www.mcafee.com/campaign/securitybattleground/resources/chapter5/whitepaper-on-assessing-threat-attac
+NEW QUESTION 537
+- (Exam Topic 5)
+In both pharming and phishing attacks an attacker can create websites that look similar to legitimate sites with the intent of collecting personal identifiable
+information from its victims. What is the difference between pharming and phishing attacks?
+A. In a pharming attack a victim is redirected to a fake website by modifying their host configuration file or by exploiting vulnerabilities in DN
+B. In a phishing attack an attacker provides the victim with a URL that is either misspelled or looks similar to the actual websites domain name.
+C. Both pharming and phishing attacks are purely technical and are not considered forms of social engineering.
+D. Both pharming and phishing attacks are identical.
+E. In a phishing attack a victim is redirected to a fake website by modifying their host configuration file or by exploiting vulnerabilities in DN
+F. In a pharming attack an attacker provides the victim with a URL that is either misspelled or looks very similar to the actual websites domain name.
+Answer: A
+NEW QUESTION 538
+- (Exam Topic 5)
+Which protocol is used for setting up secured channels between two devices, typically in VPNs?
+A. IPSEC
+B. PEM
+C. SET
+D. PPP
+Answer: A
+NEW QUESTION 539
+- (Exam Topic 5)
+You are an Ethical Hacker who is auditing the ABC company. When you verify the NOC one of the machines has 2 connections, one wired and the other wireless.
+When you verify the configuration of this Windows system you find two static routes.
+route add 10.0.0.0 mask 255.0.0.0 10.0.0.1
+route add 0.0.0.0 mask 255.0.0.0 199.168.0.1 What is the main purpose of those static routes?
+A. Both static routes indicate that the traffic is external with different gateway.
+B. The first static route indicates that the internal traffic will use an external gateway and the second static route indicates that the traffic will be rerouted.
+C. Both static routes indicate that the traffic is internal with different gateway.
+D. The first static route indicates that the internal addresses are using the internal gateway and the second static route indicates that all the traffic that is not
+internal must go to an external gateway.
+Answer: D
+NEW QUESTION 544
+- (Exam Topic 5)
+Due to a slowdown of normal network operations, IT department decided to monitor internet traffic for all of the employees. From a legal stand point, what would
+be troublesome to take this kind of measure?
+A. All of the employees would stop normal work activities
+B. IT department would be telling employees who the boss is
+C. Not informing the employees that they are going to be monitored could be an invasion of privacy.
+D. The network could still experience traffic slow down.
+Answer: C
+NEW QUESTION 546
+- (Exam Topic 5)
+A large mobile telephony and data network operator has a data that houses network elements. These are essentially large computers running on Linux. The
+perimeter of the data center is secured with firewalls and IPS systems. What is the best security policy concerning this setup?
+A. Network elements must be hardened with user ids and strong password
+B. Regular security tests and audits should be performed.
+C. As long as the physical access to the network elements is restricted, there is no need for additional measures.
+D. There is no need for specific security measures on the network elements as long as firewalls and IPS systems exist.
+E. The operator knows that attacks and down time are inevitable and should have a backup site.
+Answer: A
+NEW QUESTION 551
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+- (Exam Topic 5)
+Which of the following tools is used to detect wireless LANs using the 802.11a/b/g/n WLAN standards on a linux platform?
+A. Kismet
+B. Nessus
+C. Netstumbler
+D. Abel
+Answer: A
+Explanation:
+Kismet is a network detector, packet sniffer, and intrusion detection system for 802.11 wireless LANs. Kismet will work with any wireless card which supports raw
+monitoring mode, and can sniff 802.11a, 802.11b, 802.11g, and 802.11n traffic. The program runs under Linux, FreeBSD, NetBSD, OpenBSD, and Mac OS X.
+References: https://en.wikipedia.org/wiki/Kismet_(software)
+NEW QUESTION 554
+- (Exam Topic 5)
+Which method of password cracking takes the most time and effort?
+A. Brute force
+B. Rainbow tables
+C. Dictionary attack
+D. Shoulder surfing
+Answer: A
+Explanation:
+Brute-force cracking, in which a computer tries every possible key or password until it succeeds, is typically very time consuming. More common methods of
+password cracking, such as dictionary attacks, pattern checking, word list substitution, etc. attempt to reduce the number of trials required and will usually be
+attempted before brute force.
+References: https://en.wikipedia.org/wiki/Password_cracking
+NEW QUESTION 558
+- (Exam Topic 5)
+You are the Systems Administrator for a large corporate organization. You need to monitor all network traffic on your local network for suspicious activities and
+receive notifications when an attack is occurring. Which tool would allow you to accomplish this goal?
+A. Network-based IDS
+B. Firewall
+C. Proxy
+D. Host-based IDS
+Answer: A
+Explanation:
+A network-based intrusion detection system (NIDS) is used to monitor and analyze network traffic to protect a system from network-based threats.
+A NIDS reads all inbound packets and searches for any suspicious patterns. When threats are discovered, based on its severity, the system can take action such
+as notifying administrators, or barring the source IP address from accessing the network.
+References: https://www.techopedia.com/definition/12941/network-based-intrusion-detection-system-nids
+NEW QUESTION 559
+- (Exam Topic 5)
+Which of the following security operations is used for determining the attack surface of an organization?
+A. Running a network scan to detect network services in the corporate DMZ
+B. Training employees on the security policy regarding social engineering
+C. Reviewing the need for a security clearance for each employee
+D. Using configuration management to determine when and where to apply security patches
+Answer: A
+Explanation:
+For a network scan the goal is to document the exposed attack surface along with any easily detected vulnerabilities.
+References:
+http://meisecurity.com/home/consulting/consulting-network-scanning/
+NEW QUESTION 564
+- (Exam Topic 5)
+Which of the following tools is used to analyze the files produced by several packet-capture programs such as tcpdump, WinDump, Wireshark, and EtherPeek?
+A. tcptrace
+B. tcptraceroute
+C. Nessus
+D. OpenVAS
+Answer: A
+Explanation:
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+tcptrace is a tool for analysis of TCP dump files. It can take as input the files produced by several popular packet-capture programs, including
+tcpdump/WinDump/Wireshark, snoop, EtherPeek, and Agilent NetMetrix.
+References: https://en.wikipedia.org/wiki/Tcptrace
+NEW QUESTION 565
+- (Exam Topic 5)
+What is the correct process for the TCP three-way handshake connection establishment and connection termination?
+A. Connection Establishment: FIN, ACK-FIN, ACKConnection Termination: SYN, SYN-ACK, ACK
+B. Connection Establishment: SYN, SYN-ACK, ACKConnection Termination: ACK, ACK-SYN, SYN
+C. Connection Establishment: ACK, ACK-SYN, SYNConnection Termination: FIN, ACK-FIN, ACK
+D. Connection Establishment: SYN, SYN-ACK, ACKConnection Termination: FIN, ACK-FIN, ACK
+Answer: D
+NEW QUESTION 570
+- (Exam Topic 5)
+You want to do an ICMP scan on a remote computer using hping2. What is the proper syntax?
+A. hping2 host.domain.com
+B. hping2 --set-ICMP host.domain.com
+C. hping2 -i host.domain.com
+D. hping2 -1 host.domain.com
+Answer: D
+NEW QUESTION 573
+- (Exam Topic 5)
+Sophia travels a lot and worries that her laptop containing confidential documents might be stolen. What is the best protection that will work for her?
+A. Password protected files
+B. Hidden folders
+C. BIOS password
+D. Full disk encryption.
+Answer: D
+NEW QUESTION 574
+- (Exam Topic 5)
+What does a firewall check to prevent particular ports and applications from getting packets into an organization?
+A. Transport layer port numbers and application layer headers
+B. Presentation layer headers and the session layer port numbers
+C. Network layer headers and the session layer port numbers
+D. Application layer port numbers and the transport layer headers
+Answer: A
+Explanation:
+Newer firewalls can filter traffic based on many packet attributes like source IP address, source port, destination IP address or transport layer port, destination
+service like WWW or FTP. They can filter based on protocols, TTL values, netblock of originator, of the source, and many other attributes.
+Application layer firewalls are responsible for filtering at 3, 4, 5, 7 layer. Because they analyze the application layer headers, most firewall control and filtering is
+performed actually in the software.
+References: https://en.wikipedia.org/wiki/Firewall_(computing)#Network_layer_or_packet_filters
+http://howdoesinternetwork.com/2012/application-layer-firewalls
+NEW QUESTION 578
+- (Exam Topic 5)
+Which tier in the N-tier application architecture is responsible for moving and processing data between the tiers?
+A. Application Layer
+B. Data tier
+C. Presentation tier
+D. Logic tier
+Answer: D
+NEW QUESTION 583
+- (Exam Topic 5)
+Bob learned that his username and password for a popular game has been compromised. He contacts the company and resets all the information. The company
+suggests he use two-factor authentication, which option below offers that?
+A. A new username and password
+B. A fingerprint scanner and his username and password.
+C. Disable his username and use just a fingerprint scanner.
+D. His username and a stronger password.
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: B
+NEW QUESTION 584
+- (Exam Topic 5)
+Which Intrusion Detection System is best applicable for large environments where critical assets on the network need extra security and is ideal for observing
+sensitive network segments?
+A. Network-based intrusion detection system (NIDS)
+B. Host-based intrusion detection system (HIDS)
+C. Firewalls
+D. Honeypots
+Answer: A
+NEW QUESTION 585
+- (Exam Topic 5)
+Attempting an injection attack on a web server based on responses to True/False questions is called which of the following?
+A. Blind SQLi
+B. DMS-specific SQLi
+C. Classic SQLi
+D. Compound SQLi
+Answer: A
+NEW QUESTION 590
+- (Exam Topic 5)
+A company's security policy states that all Web browsers must automatically delete their HTTP browser cookies upon terminating. What sort of security breach is
+this policy attempting to mitigate?
+A. Attempts by attackers to access Web sites that trust the Web browser user by stealing the user's authentication credentials.
+B. Attempts by attackers to access the user and password information stored in the company's SQL database.
+C. Attempts by attackers to access passwords stored on the user's computer without the user's knowledge.
+D. Attempts by attackers to determine the user's Web browser usage patterns, including when sites were visited and for how long.
+Answer: A
+Explanation:
+Cookies can store passwords and form content a user has previously entered, such as a credit card number or an address.
+Cookies can be stolen using a technique called cross-site scripting. This occurs when an attacker takes advantage of a website that allows its users to post
+unfiltered HTML and JavaScript content.
+References: https://en.wikipedia.org/wiki/HTTP_cookie#Cross-site_scripting_.E2.80.93_cookie_theft
+NEW QUESTION 592
+- (Exam Topic 5)
+What is correct about digital signatures?
+A. A digital signature cannot be moved from one signed document to another because it is the hash of the original document encrypted with the private key of the
+signing party.
+B. Digital signatures may be used in different documents of the same type.
+C. A digital signature cannot be moved from one signed document to another because it is a plain hash of the document content.
+D. Digital signatures are issued once for each user and can be used everywhere until they expire.
+Answer: A
+NEW QUESTION 596
+- (Exam Topic 5)
+What term describes the amount of risk that remains after the vulnerabilities are classified and the countermeasures have been deployed?
+A. Residual risk
+B. Inherent risk
+C. Deferred risk
+D. Impact risk
+Answer: A
+Explanation:
+The residual risk is the risk or danger of an action or an event, a method or a (technical) process that, although being abreast with science, still conceives these
+dangers, even if all theoretically possible safety measures would be applied (scientifically conceivable measures); in other words, the amount of risk left over after
+natural or inherent risks have been reduced by risk controls.
+References: https://en.wikipedia.org/wiki/Residual_risk
+NEW QUESTION 597
+- (Exam Topic 5)
+What is the role of test automation in security testing?
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+A. It can accelerate benchmark tests and repeat them with a consistent test setu
+B. But it cannot replace manual testing completely.
+C. It is an option but it tends to be very expensive.
+D. It should be used exclusivel
+E. Manual testing is outdated because of low speed and possible test setup inconsistencies.
+F. Test automation is not usable in security due to the complexity of the tests.
+Answer: A
+NEW QUESTION 600
+- (Exam Topic 5)
+Which of the following is a low-tech way of gaining unauthorized access to systems?
+A. Social Engineering
+B. Sniffing
+C. Eavesdropping
+D. Scanning
+Answer: A
+Explanation:
+Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential
+information. A type of confidence trick for the purpose of information gathering, fraud, or system access.
+References: https://en.wikipedia.org/wiki/Social_engineering_(security)
+NEW QUESTION 602
+- (Exam Topic 5)
+In many states sending spam is illegal. Thus, the spammers have techniques to try and ensure that no one knows they sent the spam out to thousands of users at
+a time. Which of the following best describes what spammers use to hide the origin of these types of e-mails?
+A. A blacklist of companies that have their mail server relays configured to allow traffic only to theirspecific domain name.
+B. Mail relaying, which is a technique of bouncing e-mail from internal to external mails servers continuously.
+C. A blacklist of companies that have their mail server relays configured to be wide open.
+D. Tools that will reconfigure a mail server's relay component to send the e-mail back to the spammers occasionally.
+Answer: B
+NEW QUESTION 607
+- (Exam Topic 5)
+Which of the following tools performs comprehensive tests against web servers, including dangerous files and CGIs?
+A. Nikto
+B. Snort
+C. John the Ripper
+D. Dsniff
+Answer: A
+Explanation:
+Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including over 6700 potentially
+dangerous files/CGIs, checks for outdated versions of over 1250 servers, and version specific problems on over 270 servers. It also checks for server configuration
+items such as the presence of multiple index files, HTTP server options, and will attempt to identify installed web servers and software. Scan items and plugins are
+frequently updated and can be automatically updated.
+References: https://en.wikipedia.org/wiki/Nikto_Web_Scanner
+NEW QUESTION 610
+- (Exam Topic 5)
+An Internet Service Provider (ISP) has a need to authenticate users connecting using analog modems, Digital Subscriber Lines (DSL), wireless data services, and
+Virtual Private Networks (VPN) over a Frame Relay network.
+Which AAA protocol is most likely able to handle this requirement?
+A. RADIUS
+B. DIAMETER
+C. Kerberos
+D. TACACS+
+Answer: A
+Explanation:
+Because of the broad support and the ubiquitous nature of the RADIUS protocol, it is often used by ISPs and enterprises to manage access to the Internet or
+internal networks, wireless networks, and integrated e-mail services. These networks may incorporate modems, DSL, access points, VPNs, network ports, web
+servers, etc.
+References: https://en.wikipedia.org/wiki/RADIUS
+NEW QUESTION 614
+- (Exam Topic 5)
+A well-intentioned researcher discovers a vulnerability on the web site of a major corporation. What should he do?
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+A. Ignore it.
+B. Try to sell the information to a well-paying party on the dark web.
+C. Notify the web site owner so that corrective action be taken as soon as possible to patch the vulnerability.
+D. Exploit the vulnerability without harming the web site owner so that attention be drawn to the problem.
+Answer: C
+NEW QUESTION 619
+- (Exam Topic 5)
+Jimmy is standing outside a secure entrance to a facility. He is pretending to have a tense conversation on his cell phone as an authorized employee badges in.
+Jimmy, while still on the phone, grabs the door as it begins to close.
+What just happened?
+A. Phishing
+B. Whaling
+C. Tailgating
+D. Masquerading
+Answer: C
+NEW QUESTION 623
+- (Exam Topic 5)
+Which of these is capable of searching for and locating rogue access points?
+A. HIDS
+B. WISS
+C. WIPS
+D. NIDS
+Answer: C
+NEW QUESTION 624
+- (Exam Topic 5)
+The security concept of "separation of duties" is most similar to the operation of which type of security device?
+A. Firewall
+B. Bastion host
+C. Intrusion Detection System
+D. Honeypot
+Answer: A
+Explanation:
+In most enterprises the engineer making a firewall change is also the one reviewing the firewall metrics for unauthorized changes. What if the firewall administrator
+wanted to hide something? How would anyone ever find out? This is where the separation of duties comes in to focus on the responsibilities of tasks within
+security.
+References:
+http://searchsecurity.techtarget.com/tip/Modern-security-management-strategy-requires-security-separation-of-d
+NEW QUESTION 627
+- (Exam Topic 5)
+An Intrusion Detection System (IDS) has alerted the network administrator to a possibly malicious sequence of packets sent to a Web server in the network's
+external DMZ. The packet traffic was captured by the IDS and saved to a PCAP file.
+What type of network tool can be used to determine if these packets are genuinely malicious or simply a false positive?
+A. Protocol analyzer
+B. Intrusion Prevention System (IPS)
+C. Network sniffer
+D. Vulnerability scanner
+Answer: A
+Explanation:
+A packet analyzer (also known as a network analyzer, protocol analyzer or packet sniffer—or, for particular types of networks, an Ethernet sniffer or wireless sniffer)
+is a computer program or piece of computer hardware that can intercept and log traffic that passes over a digital network or part of a network. A packet analyzer
+can analyze packet traffic saved in a PCAP file.
+References: https://en.wikipedia.org/wiki/Packet_analyzer
+NEW QUESTION 631
+- (Exam Topic 5)
+To determine if a software program properly handles a wide range of invalid input, a form of automated testing can be used to randomly generate invalid input in
+an attempt to crash the program.
+What term is commonly used when referring to this type of testing?
+A. Fuzzing
+B. Randomizing
+C. Mutating
+D. Bounding
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: A
+Explanation:
+Fuzz testing or fuzzing is a software testing technique, often automated or semi-automated, that involves providing invalid, unexpected, or random data to the
+inputs of a computer program. The program is then monitored for exceptions such as crashes, or failing built-in code assertions or for finding potential memory
+leaks. Fuzzing is commonly used to test for security problems in software or computer systems. It is a form of random testing which has been used for testing
+hardware or software.
+References: https://en.wikipedia.org/wiki/Fuzz_testing
+NEW QUESTION 636
+- (Exam Topic 5)
+A hacker has managed to gain access to a Linux host and stolen the password file from /etc/passwd. How can he use it?
+A. The password file does not contain the passwords themselves.
+B. He can open it and read the user ids and corresponding passwords.
+C. The file reveals the passwords to the root user only.
+D. He cannot read it because it is encrypted.
+Answer: A
+NEW QUESTION 637
+- (Exam Topic 6)
+While performing online banking using a Web browser, Kyle receives an email that contains an image of a well-crafted art. Upon clicking the image, a new tab on
+the web browser opens and shows an animated GIF of bills and coins being swallowed by a crocodile. After several days, Kyle noticed that all his funds on the
+bank was gone. What Web browser-based security vulnerability got exploited by the hacker?
+A. Clickjacking
+B. Web Form Input Validation
+C. Cross-Site Request Forgery
+D. Cross-Site Scripting
+Answer: C
+NEW QUESTION 639
+- (Exam Topic 6)
+Matthew received an email with an attachment named “YouWon$10Grand.zip.” The zip file contains a file named “HowToClaimYourPrize.docx.exe.” Out of
+excitement and curiosity, Matthew opened the said file. Without his knowledge, the file copies itself to Matthew’s APPDATA\IocaI directory and begins to beacon
+to a Command-and-control server to download additional malicious binaries. What type of malware has Matthew encountered?
+A. Key-logger
+B. Trojan
+C. Worm
+D. Macro Virus
+Answer: B
+NEW QUESTION 640
+- (Exam Topic 6)
+Shellshock had the potential for an unauthorized user to gain access to a server. It affected many internet-facing services, which OS did it not directly affect?
+A. Windows
+B. Unix
+C. Linux
+D. OS X
+Answer: A
+NEW QUESTION 643
+- (Exam Topic 6)
+Which Type of scan sends a packets with no flags set?
+A. Open Scan
+B. Null Scan
+C. Xmas Scan
+D. Half-Open Scan
+Answer: B
+NEW QUESTION 644
+- (Exam Topic 6)
+Which of the following is a wireless network detector that is commonly found on Linux?
+A. Kismet
+B. Abel
+C. Netstumbler
+D. Nessus
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+Answer: A
+NEW QUESTION 645
+- (Exam Topic 6)
+A server has been infected by a certain type of Trojan. The hacker intended to utilize it to send and host junk mails. What type of Trojan did the hacker use?
+A. Turtle Trojans
+B. Ransomware Trojans
+C. Botnet Trojan
+D. Banking Trojans
+Answer: C
+NEW QUESTION 648
+- (Exam Topic 6)
+As an Ethical Hacker you are capturing traffic from your customer network with Wireshark and you need to find and verify just SMTP traffic. What command in
+Wireshark will help you to find this kind of traffic?
+A. request smtp 25
+B. tcp.port eq 25
+C. smtp port
+D. tcp.contains port 25
+Answer: B
+NEW QUESTION 649
+- (Exam Topic 6)
+What is the term coined for logging, recording and resolving events in a company?
+A. Internal Procedure
+B. Security Policy
+C. Incident Management Process
+D. Metrics
+Answer: C
+NEW QUESTION 651
+- (Exam Topic 6)
+You are manually conducting Idle Scanning using Hping2. During your scanning you notice that almost every query increments the IPID regardless of the port
+being queried. One or two of the queries cause the IPID to increment by more than one value. Why do you think this occurs?
+A. The zombie you are using is not truly idle.
+B. A stateful inspection firewall is resetting your queries.
+C. Hping2 cannot be used for idle scanning.
+D. These ports are actually open on the target system.
+Answer: A
+NEW QUESTION 654
+- (Exam Topic 6)
+You’ve just gained root access to a Centos 6 server after days of trying. What tool should you use to maintain access?
+A. Disable Key Services
+B. Create User Account
+C. Download and Install Netcat
+D. Disable IPTables
+Answer: B
+NEW QUESTION 655
+- (Exam Topic 6)
+A hacker was able to easily gain access to a website. He was able to log in via the frontend user login form of the website using default or commonly used
+credentials. This exploitation is an example of what Software design flaw?
+A. Insufficient security management
+B. Insufficient database hardening
+C. Insufficient input validation
+D. Insufficient exception handling
+Answer: B
+NEW QUESTION 657
+- (Exam Topic 6)
+........is an attack type for a rogue Wi-Fi access point that appears to be a legitimate one offered on the premises, but actually has been set up to eavesdrop on
+wireless communications. It is the wireless version of the phishing scam. An attacker fools wireless users into connecting a laptop or mobile phone to a tainted
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+hotspot by posing as a legitimate provider. This type of attack may be used to steal the passwords of unsuspecting users by either snooping the communication
+link or by phishing, which involves setting up a fraudulent web site and luring people there.
+Fill in the blank with appropriate choice.
+A. Collision Attack
+B. Evil Twin Attack
+C. Sinkhole Attack
+D. Signal Jamming Attack
+Answer: B
+NEW QUESTION 662
+- (Exam Topic 6)
+Which of the following commands runs snort in packet logger mode?
+A. ./snort -dev -h ./log
+B. ./snort -dev -l ./log
+C. ./snort -dev -o ./log
+D. ./snort -dev -p ./log
+Answer: B
+NEW QUESTION 663
+- (Exam Topic 6)
+SNMP is a protocol used to query hosts, servers, and devices about performance or health status data. This protocol has long been used by hackers to gather
+great amount of information about remote hosts. Which of the following features makes this possible? (Choose two.)
+A. It used TCP as the underlying protocol.
+B. It uses community string that is transmitted in clear text.
+C. It is susceptible to sniffing.
+D. It is used by all network devices on the market.
+Answer: BD
+NEW QUESTION 664
+- (Exam Topic 6)
+An enterprise recently moved to a new office and the new neighborhood is a little risky. The CEO wants to monitor the physical perimeter and the entrance doors
+24 hours. What is the best option to do this job?
+A. Use fences in the entrance doors.
+B. Install a CCTV with cameras pointing to the entrance doors and the street.
+C. Use an IDS in the entrance doors and install some of them near the corners.
+D. Use lights in all the entrance doors and along the company's perimeter.
+Answer: B
+NEW QUESTION 668
+- (Exam Topic 6)
+In which phase of the ethical hacking process can Google hacking be employed? This is a technique that involves manipulating a search string with specific
+operators to search for vulnerabilities.
+Example:
+allintitle: root passwd
+A. Maintaining Access
+B. Gaining Access
+C. Reconnaissance
+D. Scanning and Enumeration
+Answer: C
+NEW QUESTION 671
+- (Exam Topic 6)
+The practical realities facing organizations today make risk response strategies essential. Which of the following is NOT one of the five basic responses to risk?
+A. Accept
+B. Mitigate
+C. Delegate
+D. Avoid
+Answer: C
+NEW QUESTION 675
+- (Exam Topic 6)
+While performing ping scans into a target network you get a frantic call from the organization's security team. They report that they are under a denial of service
+attack. When you stop your scan, the smurf attack event stops showing up on the organization's IDS monitor.
+How can you modify your scan to prevent triggering this event in the IDS?
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+A. Scan more slowly.
+B. Do not scan the broadcast IP.
+C. Spoof the source IP address.
+D. Only scan the Windows systems.
+Answer: B
+NEW QUESTION 676
+- (Exam Topic 6)
+Which of the following will perform an Xmas scan using NMAP?
+A. nmap -sA 192.168.1.254
+B. nmap -sP 192.168.1.254
+C. nmap -sX 192.168.1.254
+D. nmap -sV 192.168.1.254
+Answer: C
+NEW QUESTION 679
+- (Exam Topic 6)
+While doing a technical assessment to determine network vulnerabilities, you used the TCP XMAS scan. What would be the response of all open ports?
+A. The port will send an ACK
+B. The port will send a SYN
+C. The port will ignore the packets
+D. The port will send an RST
+Answer: C
+NEW QUESTION 684
+- (Exam Topic 6)
+You want to analyze packets on your wireless network. Which program would you use?
+A. Wireshark with Airpcap
+B. Airsnort with Airpcap
+C. Wireshark with Winpcap
+D. Ethereal with Winpcap
+Answer: A
+NEW QUESTION 689
+- (Exam Topic 6)
+Sandra has been actively scanning the client network on which she is doing a vulnerability assessment test. While conducting a port scan she notices open ports
+in the range of 135 to 139.
+What protocol is most likely to be listening on those ports?
+A. Finger
+B. FTP
+C. Samba
+D. SMB
+Answer: D
+NEW QUESTION 694
+- (Exam Topic 6)
+Which of the following security policies defines the use of VPN for gaining access to an internal corporate network?
+A. Network security policy
+B. Remote access policy
+C. Information protection policy
+D. Access control policy
+Answer: B
+NEW QUESTION 699
+- (Exam Topic 6)
+Which of the following is a restriction being enforced in “white box testing?”
+A. Only the internal operation of a system is known to the tester
+B. The internal operation of a system is completely known to the tester
+C. The internal operation of a system is only partly accessible to the tester
+D. Only the external operation of a system is accessible to the tester
+Answer: B
+NEW QUESTION 701
+SPACEWORD
+SPACEWORD2
+SPACEWORD3
+- (Exam Topic 6)
+In order to prevent particular ports and applications from getting packets into an organization, what does a firewall check?
+A. Network layer headers and the session layer port numbers
+B. Presentation layer headers and the session layer port numbers
+C. Application layer port numbers and the transport layer headers
+D. Transport layer port numbers and application layer headers
+Answer: D
+NEW QUESTION 704
+- (Exam Topic 6)
+A company recently hired your team of Ethical Hackers to test the security of their network systems. The company wants to have the attack be as realistic as
+possible. They did not provide any information besides the name of their company. What phase of security testing would your team jump in right away?
+A. Scanning
+B. Reconnaissance
+C. Escalation
+D. Enumeration
+Answer: B
+NEW QUESTION 708
