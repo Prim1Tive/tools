@@ -1,1 +1,1 @@
-# the Certeficate ethical hacker 1k questions quiz
+# the Certificate ethical hacker 1k questions quiz
